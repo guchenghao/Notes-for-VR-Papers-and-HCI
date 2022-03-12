@@ -1,2 +1,12 @@
 # Notes-for-Virtual-Reality-Papers
-Just record my reading notes for VR papers
+
+## Purpose
+Just record my reading notes for VR papers, only for learning!
+Welcome to learn together
+
+## domain
+
+- VR Education
+- VR ML
+- VR Social
+- VR Interaction
