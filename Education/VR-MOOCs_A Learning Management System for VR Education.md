@@ -43,11 +43,15 @@ TIME: 2019/09 IEEEXR
 # Comment
 ---
 
-1. 虽然这篇文章很短，也只是个demo，而且还有很多后续分析和其他工作没有做，但是这篇文章的idea point很有意思，从教育的coaching（教育干预 educational intervention）角度入手，分析teacher在VR Education Environment中的作用和社交定位，以此来证明VR-Mooc LMS的必要性和创新性。
+1. 虽然这篇文章很短，也只是个demo，而且还有很多后续分析和其他工作没有做，但是这篇文章的idea point很有意思，从教育的coaching（**教育干预 educational intervention**）角度入手，分析teacher在VR Education Environment中的作用和社交定位，以此来证明VR-Mooc LMS的必要性和创新性。
+   
+2. 本文的核心痛点就在于在VR的环境下，teacher直接去指导或干预学生学习的表现效果不好，而且不方便（**lack of locus of control 缺乏心理控制源**），这样反而会减少学生在VR下engagement，此时本文的LMS就发挥了作用。
 
-2. 关于这篇文章具体系统的设计方案和逻辑，本篇文章的LMS系统主要利用monitoring的思想来解读VR环境下teacher和students中间的关系和定位，以此来设计系统架构以及师生之间的interaction，具有一定的启发意义。
+3. 关于这篇文章具体系统的设计方案和逻辑，本篇文章的LMS系统主要利用monitoring的思想来解读VR环境下teacher和students中间的关系和定位，以此来设计系统架构以及师生之间的interaction，具有一定的启发意义。
 ---
 
 # What can be used
 ---
 - 如果multi-user VR social platform在将来研究中被应用于education领域的话，这篇文章探讨的VR下师生关系和Moitoring的设计方案，可以借鉴或参考
+
+- 本文在Introduction部分的分析，在今后的研究中可以被引用
