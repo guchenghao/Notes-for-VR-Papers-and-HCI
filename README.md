@@ -1,10 +1,10 @@
 # Notes-for-Virtual-Reality-Papers
 
 ## Purpose
-Just record my reading notes for VR papers, only for learning!
-Welcome to learn together
+Just record my reading notes for VR papers, only for learning !
+Welcome to learn together !
 
-## domain
+## Domain
 
 - VR Education
 - VR ML
