@@ -26,6 +26,7 @@ TIME: 2019/09 IEEEXR
 
 ## Steps and models
 ---
+
 1. Client System
 
    - students can at any time ask helps from the teacher, and instant feedback from the teacher through the LMS makes them to perceive the teacher’s presence
@@ -52,6 +53,7 @@ TIME: 2019/09 IEEEXR
 
 # What can be used
 ---
+
 - 如果multi-user VR social platform在将来研究中被应用于education领域的话，这篇文章探讨的VR下师生关系和Moitoring的设计方案，可以借鉴或参考
 
 - 本文在Introduction部分的分析，在今后的研究中可以被引用
