@@ -2,7 +2,7 @@
 ---
 
 TIME: 2018/10 ICETC
-[Salient Features of an Effective Immersive NonCollaborative Virtual Reality Learning Environment](https://dl.acm.org/doi/10.1145/3290511.3290558)
+[Design of Ideological and Political Teaching Assistant System Based on AR and VR Technology](https://dl.acm.org/doi/10.1145/3419635.3419699)
 
 
 # Problem
