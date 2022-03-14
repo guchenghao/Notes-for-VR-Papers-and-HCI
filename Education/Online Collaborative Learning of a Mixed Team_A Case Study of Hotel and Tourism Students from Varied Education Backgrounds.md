@@ -61,3 +61,5 @@ TIME: 2019/7 ICEMT
 ---
 
 - 这篇文章虽然没什么技术观点和应用，但是本文的结论和观点对今后Collaborative Learning的学习模式和实验设计有一定的指导意义，值得思考
+
+- [关于Cooperative与collaborative的区别](https://www.loogear.com/topic/2018/11/collaboration-vs-teamwork-what-is-the-difference-2)
