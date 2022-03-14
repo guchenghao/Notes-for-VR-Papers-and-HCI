@@ -2,6 +2,7 @@
 ---
 
 TIME: 2019/10 VRST
+
 [Visualizing Convolutional Neural Networks with Virtual Reality](https://dl.acm.org/doi/10.1145/3359996.3364817)
 
 # Problem
