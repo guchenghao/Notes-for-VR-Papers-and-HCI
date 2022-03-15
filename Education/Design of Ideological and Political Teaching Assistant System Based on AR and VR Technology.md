@@ -68,11 +68,13 @@ TIME: 2020/10 CIPAE
 # Comment
 ---
 
-1. 这篇文章虽然标题是有说VR Technology，但是通篇并未对VR的应用进行很详细的描述，很显然对于这篇文章来说，**VR只是一个技术工具**.
+1. 这篇文章虽然标题是有说VR Technology，但是通篇并未对VR的应用进行很详细的描述，很显然对于这篇文章来说，**VR只是一个技术工具**。
 
-2. 这篇文章的重点在基于现有的SPOC教育模式，引入VR工具，来打造一种新型的online learning的平台，因此**这篇文章的卖点在于一种新的在线学习模式**.
+2. 这篇文章的重点在基于现有的SPOC教育模式，引入VR工具，来打造一种新型的online learning的平台，因此**这篇文章的卖点在于一种新的在线学习模式**。
    
-3. 个人感觉这篇文章算是反映了现在很多VR Education的paper，基本上把VR当做一个新颖的工具，而且VR Education的paper很多都是**VR + 新教学模式，VR + 特定的教学场景 + case study or explore study**，而且在**medical和人文社科**领域应用和研究非常多的，很少去关注VR技术本身或者VR技术和其他技术的结合.
+3. 而且，本篇文章关于VR技术部分也没有细说，只是简单交代了VR在整个项目中的作用，并未详细阐述VR模块具体的技术亮点或设计。
+   
+4. 个人感觉这篇文章算是反映了现在很多VR Education的paper，基本上把VR当做一个新颖的工具，而且VR Education的paper很多都是**VR + 新教学模式，VR + 特定的教学场景 + case study or explore study**，而且在**medical和人文社科**领域应用和研究非常多的，很少去关注VR技术本身或者VR技术和其他技术的结合.
 ---
 
 # What can be used
