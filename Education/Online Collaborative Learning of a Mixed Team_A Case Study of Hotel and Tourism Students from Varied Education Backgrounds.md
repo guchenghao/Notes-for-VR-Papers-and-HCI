@@ -48,7 +48,7 @@ TIME: 2019/7 ICEMT
 -  Learning from the viewpoint of learners, facilitators may make better decisions
 
 -  For more effective online collaborative learning process, **more homogeneity in a team is recommended**.
-
+---
 
 # Comment
 ---

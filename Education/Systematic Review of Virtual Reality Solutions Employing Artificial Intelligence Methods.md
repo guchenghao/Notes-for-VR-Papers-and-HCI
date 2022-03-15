@@ -50,7 +50,7 @@ TIME: 2021/10 SVR
 - the combination of AI and VR contributes to new trends and opportunities for **human–machine interactive devices**, leading to customer satisfaction and loyalty.
 
 - AI and VR contribute to the health area to promote efficiency and precision in surgical operations, in addition to allowing the rehabilitation of treated patients
-
+---
 
 # Comment
 ---
@@ -69,4 +69,4 @@ TIME: 2021/10 SVR
   
 - 如果考虑将AI与 VR Education结合起来，最首要也是最重要的就是找一个合适的应用场景或者可操作的problem（**如果把故事背景搞定，实验设计和方案设计一般不会有特别的障碍**）
 
-- 再谈点个人感受，VR Education这几年最实用且应用最多的领域是**Medical Education**(非常明显)，以及部分实验操作的虚拟环境模拟(Chemical Experiment and so on)，同时其它的场景也不是说无法应用或者研究，其它的场景的数据收集和实验设计相对复杂，而且场景里可以应用VR的地方不多，而且很难解释或者说明此处应用VR的必要性和创新性(只能比较泛泛的说明)，所以这块目前来说很模糊。
+- 再谈点个人感受，VR Education这几年最实用且应用最多的领域是**Medical Education**(非常明显)，以及部分实验操作和工程作业的虚拟环境模拟(Chemical Experiment and so on)，同时其它的场景也不是说无法应用或者研究，其它的场景的数据收集和实验设计相对复杂，而且场景里可以应用VR的地方不多，而且很难解释或者说明此处应用VR的必要性和创新性(只能比较泛泛的说明)，所以这块目前来说很模糊。
