@@ -33,7 +33,6 @@ TIME: 2021/1 IC4E
 - Gulikers, Bastiaens, and Kirschner (2006) affirm this by identifying five dimensions of authentic assessments – **assessment task, physical context, social context, assessment result or form, and assessment criteria**
   
 - Newmann and Wehlage (1993) articulated five standards for authentic instruction, namely **higher-order thinking, depth of knowledge, connected to the world, substantive conversation and social support for student achievement**, to **assess the extent to which an activity engages students to achieve the standards**
-- 
 ---
 
 ## Research Design
@@ -60,9 +59,9 @@ TIME: 2021/1 IC4E
 # Comment
 ---
 
-1. 这篇文章并不是关于VR在Online distance Learning中的应用，但是这篇文章的一些关于Assessment of Online distance learning的结论比较有启发意义
-   
-2. 这篇文章的实验或研究设计非常详细，虽然这与我将来的研究目标并不是很契合，但是这篇文章的**实验设计部分**还是可以参考借鉴的
+1. 这篇文章并不是关于VR在Online distance Learning中的应用，但是这篇文章的一些关于Assessment of Online distance learning的**结论比较有启发意义**。
+
+2. 这篇文章的实验或研究设计非常详细，虽然这与我将来的研究目标并不是很契合，但是这篇文章的**实验设计部分**还是可以参考借鉴的。
 ---
 
 # What can be used
