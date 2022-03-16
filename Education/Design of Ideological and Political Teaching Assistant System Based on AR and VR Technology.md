@@ -31,7 +31,7 @@ TIME: 2020/10 CIPAE
 - SketchUp
 ---
 
-## Steps and models
+## Model Structure
 ---
 
 1. Website management

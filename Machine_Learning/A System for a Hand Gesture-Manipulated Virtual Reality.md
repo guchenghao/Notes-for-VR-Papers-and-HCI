@@ -57,7 +57,7 @@ sizes, were included in the study to **measure the ease of use and comfort of th
 
 ---
 
-# Result or Conclusion
+# Result and Conclusion
 ---
 
 - the system is **lightweight enough** to allow the program to run at a **high framerate**, which is an important consideration to take when developing for VR.
