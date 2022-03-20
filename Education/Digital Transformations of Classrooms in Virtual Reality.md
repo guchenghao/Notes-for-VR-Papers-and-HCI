@@ -28,7 +28,7 @@ TIME: 2021/5 CHI
 
 - **one of the disadvantages of teaching and learning in VR or online** compared to conventional classroom-based settings is the **limited social interaction** with teachers and peer-learners.
 
-- Next-generation VR platforms such as **Engage or Mozilla Hubs** may ofer better social engagement for learners in the virtual environments; however, **the efects of such environments on learners have to be better investigated**.
+- Next-generation VR platforms such as **Engage or Mozilla Hubs** may offer better social engagement for learners in the virtual environments; however, **the effects of such environments on learners have to be better investigated**.
 
 - The digital transformations of classrooms refect **an important and critical step** when developing VR environments for learning purposes and require further research
 

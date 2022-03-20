@@ -30,7 +30,7 @@ TIME: 2019/7 ICEMT
   
 - **higher cohesiveness** is found when working among **homogeneous groups** compared to heterogeneous groups.
   
-- Considering the ultimate goal of learning and the importance of academic achievement, l**earning outcome is often of more concern compared to learning process**.
+- Considering the ultimate goal of learning and the importance of academic achievement, **learning outcome is often of more concern compared to learning process**.
   
 - **Cooperative groups** tend to **divide the group work into smaller tasks** for individual members to complete independently whereas **collaborative groups** appear to **value more on the interactions** between members for completing the group work.
   
