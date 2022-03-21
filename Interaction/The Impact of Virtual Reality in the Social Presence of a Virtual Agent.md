@@ -35,7 +35,7 @@ TIME: 2020/10 IVA
 
 - immersion can be **objectively measured**. Platforms are more immersive when they can deliver "an inclusive, extensive, surrounding and vivid illusion of reality to the senses of a human participant"
 
-- In contrast to immersion, Presence is a **dimensional construct and captures the extent** of which a user feels present in a virtual experience environment, and, as such, **it is subjective**
+- In contrast to immersion, **Presence** is a **dimensional construct and captures the extent** of which a user feels present in a virtual experience environment, and, as such, **it is subjective**
 
 - Presence can be further divided into three distinct categories: **telepresence (spatial presence), self-presence, and social presence**
 
