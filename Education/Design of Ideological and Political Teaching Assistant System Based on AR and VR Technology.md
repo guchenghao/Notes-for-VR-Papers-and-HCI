@@ -62,7 +62,7 @@ TIME: 2020/10 CIPAE
 
 -  With **the development of hardware and software technology and the increase of people's personalized needs**, the application value of VR technology and AR technology will continue to increase.
 
--  Relying on VR and AR technology, the Ideological and Political Teaching Assistant System can further bring students' senses into the teaching situation, **listen to and experience the stories of the martyrs** described in the book, and at the same time enhance the relationship between teachers and students, students and humanmachine interactive experience
+-  Relying on VR and AR technology, the Ideological and Political Teaching Assistant System can further bring students' senses into the teaching situation, **listen to and experience the stories of the martyrs** described in the book, and at the same time enhance the relationship between teachers and students, students and human-machine interactive experience
 ---
 
 # Comment

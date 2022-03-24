@@ -50,7 +50,7 @@ TIME: 2020/10 IVA
 - BML Realizer
 
 ## Experimental Design
-- The experience is set in a **virtual room** where users play **the role of a police interrogato**r and interact with** a suspect** which is an Intelligent Virtual Agent. 
+- The experience is set in a **virtual room** where users play **the role of a police interrogator**r and interact with** a suspect** which is an Intelligent Virtual Agent. 
 - The goal of the Player is to **interrogate a suspect** and, **without losing control of the conversation**, obtain as much information as possible.
 
 - Dialogue Module
@@ -81,7 +81,7 @@ TIME: 2020/10 IVA
 # What can be used
 ---
 
-- 这篇文章的Methodlogy可以被借鉴到今后关于Agent和Online Collaborative Learning部分的研究中，或者VR Education中（如果确定相应的problem的话）
+- 这篇文章的Methodology可以被借鉴到今后关于Agent和Online Collaborative Learning部分的研究中，或者VR Education中（如果确定相应的problem的话）
 
 - 这篇文章的实现方法部分很详细，不过这篇文章所使用的工具，我都没有用过，如果确定要学习的话，要花不少时间，不能操之过急
 

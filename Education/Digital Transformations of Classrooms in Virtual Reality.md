@@ -13,12 +13,12 @@ TIME: 2021/5 CHI
 
 - With rapid developments in consumer-level head-mounted displays and computer graphics, immersive VR has the potential to **take online and remote learning closer to real-world settings**
 
-- the efects of such digital transformations on learners, particularly for VR, **have not been evaluated in depth**
+- the effects of such digital transformations on learners, particularly for VR, **have not been evaluated in depth**
 ---
 
 ## propose
 
-- This work investigates the **interaction-related efects** of **sitting positions of learners**, **visualization styles of peer-learners and teachers**, and **hand-raising behaviors of virtual peer-learners** on learners in an immersive VR classroom, using eye tracking data
+- This work investigates the **interaction-related effects** of **sitting positions of learners**, **visualization styles of peer-learners and teachers**, and **hand-raising behaviors of virtual peer-learners** on learners in an immersive VR classroom, using eye tracking data
 ---
 
 # Methodology
@@ -30,7 +30,7 @@ TIME: 2021/5 CHI
 
 - Next-generation VR platforms such as **Engage or Mozilla Hubs** may offer better social engagement for learners in the virtual environments; however, **the effects of such environments on learners have to be better investigated**.
 
-- The digital transformations of classrooms refect **an important and critical step** when developing VR environments for learning purposes and require further research
+- The digital transformations of classrooms reflect **an important and critical step** when developing VR environments for learning purposes and require further research
 
 - A thorough analysis of the **eye movements** allows to infer information on the users going beyond the gaze position, for example **stress, cognitive load, visual attention, evaluation and diagnosis of diseases, future gaze locations, or training evaluation**
 
@@ -43,7 +43,7 @@ TIME: 2021/5 CHI
 - Tobii eye tracker 
 
 ## Experimental Design
-- The main purpose of our study is to investigate the effects of digital transformations of the classrooms to **VR settings on learners**. Therefore, we designed **a user-study to study these efects**
+- The main purpose of our study is to investigate the effects of digital transformations of the classrooms to **VR settings on learners**. Therefore, we designed **a user-study to study these effects**
 
 - Participants were recruited from local academic track schools via **e-mails and invitation letters**, **381 volunteer** sixth-grade students (179 female, 202 male)
 
@@ -51,7 +51,7 @@ TIME: 2021/5 CHI
 
 - The lecture has four phases including:  (a) topic introduction (≈ 3 minutes), (b) knowledge input (≈4.5 minutes), (c) exercises (≈ 5.5 minutes), and (d) summary (≈ 1.5 minutes)
 
-- Lastly, participants flled out **questionnaires** about **their experienced presence and perceived realism**
+- Lastly, participants filled out **questionnaires** about **their experienced presence and perceived realism**
 ---
 
 # Result or Conclusion

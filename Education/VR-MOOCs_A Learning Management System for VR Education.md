@@ -55,6 +55,6 @@ TIME: 2019/09 IEEEXR
 # What can be used
 ---
 
-- 如果multi-user VR social platform在将来研究中被应用于education领域的话，这篇文章探讨的VR下师生关系和Moitoring的设计方案，可以借鉴或参考
+- 如果multi-user VR social platform在将来研究中被应用于education领域的话，这篇文章探讨的VR下师生关系和Monitoring的设计方案，可以借鉴或参考
 
 - 本文在Introduction部分的分析，在今后的研究中可以被引用

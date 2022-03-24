@@ -13,7 +13,7 @@ TIME: 2019/10 ICDEL
 
 - The **emergence of virtual reality technology** has provided a new development space for distance higher education. 
 
-- **Review and furture work of VR Application in Distance Higher Education**
+- **Review and future work of VR Application in Distance Higher Education**
 ---
 
 ## propose

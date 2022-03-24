@@ -18,7 +18,7 @@ TIME: 2020/12 OzCHI
 
 ## propose
 
-- This paper presents **the fndings from three ideation workshops** with diferent expert groups centered around **designing playful interactions with a digital agent in Virtual Reality (VR)**, in **the context of cybersecurity training**
+- This paper presents **the findings from three ideation workshops** with different expert groups centered around **designing playful interactions with a digital agent in Virtual Reality (VR)**, in **the context of cybersecurity training**
 
 - This work contributes to HCI by producing **a set of design insights** to **inform design of agent based VR learning environments**
 ---
@@ -30,27 +30,27 @@ TIME: 2020/12 OzCHI
 
 - The issues of **lack of social interactions** in computer education were raised, even before the rise of Massive Online Open Courses (MOOCs), a possible solution to these issues of scalability and lack of social interaction is **the use of agents**
 
-- While both VR and agents have potential beneft to online education, t**here is a lack of research on the design of agents for VR settings**
+- While both VR and agents have potential benefit to online education, t**here is a lack of research on the design of agents for VR settings**
 
 - Agents in multimedia learning environments are called **pedagogical agents**
 
 - The **main representations of pedagogical agents** are in intelligent tutoring systems, as **instructors in multimedia presentations**, or as **non-player characters in educational video games**
 
-- **Using embodied agents** makes it easier to customize scenarios for diferent user groups which leverage the scalability of role-play based training
+- **Using embodied agents** makes it easier to customize scenarios for different user groups which leverage the scalability of role-play based training
 
-- **Immersive reality environments** offer new possibilities for **the design of compelling social interaction experiences with computer agents** that may infuence learning experiences
+- **Immersive reality environments** offer new possibilities for **the design of compelling social interaction experiences with computer agents** that may influence learning experiences
 
-- Prior studies found that **social connection and relatedness with others enhance learners’ motivation and psychological wellness**. VR specifcally has shown promise to support such connections **through increased sense of social presence**
+- Prior studies found that **social connection and relatedness with others enhance learners’ motivation and psychological wellness**. VR specially has shown promise to support such connections **through increased sense of social presence**
 
 - Students who worked with **proactive agents** had **better recall** than those who worked with **responsive ones**
 
-- Participants had **higher confdence in an agent’s ability to perform tasks** when the agent had **a humanoid body and social behaviors** (i.e., gestures) compared to **the agent solely dependent on voice feedback**
+- Participants had **higher confidence in an agent’s ability to perform tasks** when the agent had **a humanoid body and social behaviors** (i.e., gestures) compared to **the agent solely dependent on voice feedback**
 ---
 
 # Result or Conclusion
 ---
 
-- The fndings highlighted that **training programs in a virtual space** do not need to **conform to the same conventions and limitations of the real world** which is the norm in current cybersecurity training systems
+- The findings highlighted that **training programs in a virtual space** do not need to **conform to the same conventions and limitations of the real world** which is the norm in current cybersecurity training systems
 
 - **The partner agent need not be a realistic human**. It can take the form of a **anthropomorphic robot or an animal**. This may lead to **better interactions and outcomes**
 

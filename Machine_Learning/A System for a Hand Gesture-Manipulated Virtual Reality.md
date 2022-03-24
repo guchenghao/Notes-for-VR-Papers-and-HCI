@@ -23,7 +23,7 @@ TIME: 2020/09 SAICSIT
 ## propose
 - This paper reports on the design, implementation, and evaluation of **a static HGR system for VR applications using the LMC**. 
   
-- The gesture recognition system incorporated **a lightweight feature vector of five normalized tip-to-palm distances and a k-nearest neighbour (kNN) classifier**.
+- The gesture recognition system incorporated **a lightweight feature vector of five normalized tip-to-palm distances and a k-nearest neighbor (kNN) classifier**.
   
 - The system was evaluated in terms of **response time, accuracy and usability using a case-study** VR stellar data visualization application created in the Unreal Engine 4.
   
