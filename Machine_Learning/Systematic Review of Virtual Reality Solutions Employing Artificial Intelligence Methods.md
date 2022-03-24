@@ -11,7 +11,7 @@ TIME: 2021/10 SVR
 
 ## purpose
 
-- Systematic Review
+- Systematic Review for VR solution employing artificial intelligent methods
 ---
 
 ## propose
@@ -35,9 +35,9 @@ TIME: 2021/10 SVR
 
 ## Limitation of AI-based systems
 
-- there are systems that do not perform well when applied to scenarios that are very different from those they were trained on
+- there are systems that do not perform well when applied to scenarios that are very different from those they were trained on (**实际上就是模型的泛化能力的是个很大的问题**)
   
-- Some applications can have high computational costs
+- Some applications can have **high computational costs**
 ---
 
 # Result or Conclusion

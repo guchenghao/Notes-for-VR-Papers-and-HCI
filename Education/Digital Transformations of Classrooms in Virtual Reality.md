@@ -57,13 +57,13 @@ TIME: 2021/5 CHI
 # Result or Conclusion
 ---
 
-- Our results indicate that **participants located in the back** of the virtual classroom may have diffculty extracting information during the lecture
+- Our results indicate that **participants located in the back** of the virtual classroom may have difficulty extracting information during the lecture
 
 - if the **avatars in the classroom are visualized in realistic styles**, participants may attend the lecture in a more focused manner instead of being distracted by the visualization styles of the avatars
 
 - **Few indicators** were obtained from **the evaluation of the different hand-raising behaviors** of peer-learners, providing a general understanding of attention towards peer-learner performance
 
-- These fndings ofer **valuable insights about design decisions** in the VR classroom environment
+- These findings offer **valuable insights about design decisions** in the VR classroom environment
 ---
 
 # Comment
