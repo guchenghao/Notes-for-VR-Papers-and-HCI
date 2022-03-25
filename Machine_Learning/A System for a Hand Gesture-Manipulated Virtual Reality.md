@@ -44,7 +44,7 @@ TIME: 2020/09 SAICSIT
    
 2. *Static Gesture Recognition System*: According to step(1), Normalized the LMC input TPP distances data and dataset TPP distances data(Already exist).Then, use **KNN classification algorithm** to classify the static gesture.
    
-3. *VR Gesture Handler*: The gesture handler is a component embedded in the application that receives a classified gesture and performs the appropriate action on the VR environment.(**use a finite state machine to divide each hand gesuture into a state**)
+3. *VR Gesture Handler*: The gesture handler is a component embedded in the application that receives a classified gesture and performs the appropriate action on the VR environment.(**use a finite state machine to divide each hand gesture into a state**)
    
 4. *VR Stellar Data Visualization Application*
 ---
