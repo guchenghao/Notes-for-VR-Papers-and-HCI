@@ -43,6 +43,7 @@ TIME: 2021/5 CHI
 - Tobii eye tracker 
 
 ## Experimental Design
+
 - The main purpose of our study is to investigate the effects of digital transformations of the classrooms to **VR settings on learners**. Therefore, we designed **a user-study to study these effects**
 
 - Participants were recruited from local academic track schools via **e-mails and invitation letters**, **381 volunteer** sixth-grade students (179 female, 202 male)
@@ -69,9 +70,9 @@ TIME: 2021/5 CHI
 # Comment
 ---
 
-1. 这篇文章的文笔非常好，思路很清晰，实验设计和描述非常具体，好文章
+1. 这篇文章的文笔非常好，思路很清晰，实验设计和描述非常具体，好文章，适合精读
 
-2. 虽然这篇文章的研究主旨与Online Collaborative Leanring 不是完全的契合，但是这篇文章关于Virtual Classroom的研究结论还是很具有参考价值，即使引用不到，但是这篇文章的**切入点和写作思路**值得学习。
+2. 虽然这篇文章的研究主旨与 Online Collaborative Learning 不是完全的契合，但是这篇文章关于Virtual Classroom的研究结论还是很具有参考价值，即使引用不到，但是这篇文章的**切入点和写作思路**值得学习。
 ---
 
 # What can be used
