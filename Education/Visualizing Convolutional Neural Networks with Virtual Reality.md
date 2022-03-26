@@ -15,6 +15,7 @@ TIME: 2019/10 VRST
 - However, as neural networks are complex in nature, **novel presentation means** are required to enable rapid access to the functionality.
 ---
 ## propose
+
 -  this paper examines how CNNs can be visualized in Virtual Reality
   
 - **A first exploratory study** has confirmed that our visualization approach is both intuitive to use and conductive to learning
@@ -26,9 +27,13 @@ TIME: 2019/10 VRST
 ---
 
 ## Device and Development tools
+
 - Keras
+
 - Irvine
+
 - Mataploitlib
+
 - Unity
 ---
 

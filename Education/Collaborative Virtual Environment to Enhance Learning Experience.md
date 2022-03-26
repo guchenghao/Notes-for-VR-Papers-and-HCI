@@ -35,7 +35,7 @@ TIME: 2017/11 ICEEL
 -  **Collaborative learning** is refers as **interaction** that have a **purposive intent** and a general set of **structural elements** to **facilitate it such as working together in small groups toward a common goal**
 
 
-- **seven principles** to **facilitate student engagement**, which include: 
+- ***seven principles*** to ***facilitate student engagement***, which include: 
 
   1. student/faculty contact
 
@@ -52,7 +52,7 @@ TIME: 2017/11 ICEEL
   7. respect for diverse talents and ways of learning (尊重多样化的人才和学习方式)
 
 
-- The **characteristic for NCVE(Network collaborative virtual environment)**:
+- The ***characteristic for NCVE(Network collaborative virtual environment)***:
 
   - the **importance of a presence** on behalf of another user in virtual environment through **representation/avatars/inhabitants**
 

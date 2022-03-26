@@ -38,8 +38,10 @@ TIME: 2021/5 CHI
 
 ## Equipments and Devices
 
-- HTC Vive Pro Eye 
+- HTC Vive Pro Eye
+
 - Unreal Game Engine3 v4.23.1
+
 - Tobii eye tracker 
 
 ## Experimental Design

@@ -54,7 +54,7 @@ TIME: 2020/12 OzCHI
 
 - **The partner agent need not be a realistic human**. It can take the form of a **anthropomorphic robot or an animal**. This may lead to **better interactions and outcomes**
 
--  **using cute or abstracted agents** to **minimize any eerieness** while demonstrating both positive and negative results in phishing avoidance
+- **using cute or abstracted agents** to **minimize any eerieness** while demonstrating both positive and negative results in phishing avoidance
 ---
 
 # Comment

@@ -45,12 +45,14 @@ TIME: 2020/10 IVA
 
 ## Equipments and Devices
 
-- FAtiMA Toolkit
-- Daz-3D Studio
-- BML Realizer
+- **FAtiMA Toolkit**
+- **Daz-3D Studio**
+- **BML Realizer**
 
 ## Experimental Design
+
 - The experience is set in a **virtual room** where users play **the role of a police interrogator**r and interact with** a suspect** which is an Intelligent Virtual Agent. 
+
 - The goal of the Player is to **interrogate a suspect** and, **without losing control of the conversation**, obtain as much information as possible.
 
 - Dialogue Module
