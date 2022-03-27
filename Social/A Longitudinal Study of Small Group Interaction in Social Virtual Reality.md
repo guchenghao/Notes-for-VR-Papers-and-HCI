@@ -81,7 +81,7 @@ TIME: 2018/11 VRST
 
 - ***Limited mobility***
 
-- ***Difficulty in interpreting conversation protocol without nonverbal cues***
+- ***Difficulty in interpreting conversation protocol without nonverbal cues***: Whilst the social VR applications include **animated mouths during times of speech**, **there is <u>no cue</u> to let users know when a group member is about to speak**
 
 - ***Avatars tend to be representative of users***
 ---
