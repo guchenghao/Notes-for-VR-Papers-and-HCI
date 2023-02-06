@@ -1,7 +1,7 @@
 # Notes-for-Virtual-Reality-Papers
 
 ## Purpose
-Just record my reading notes for VR papers, only for learning !
+Just record my reading notes for VR papers and HCI Research, only for learning !
 Welcome to learn together !
 
 ## Domain
