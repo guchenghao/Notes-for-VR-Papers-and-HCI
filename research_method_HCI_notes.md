@@ -46,4 +46,28 @@
 
 ## 2. Experiment Design
 
-### 2.1 
+----
+### 2.1 Wizard-of-Oz approach
+
+---
+
+> The Wizard-of-Oz approach allows us to test *ideal applications* that do not exist in the real world. This approach is not without its limitations. Humans also make errors. It is very likely that the human “wizard” would make errors when listening to the dictation or when typing the words.
+
+
+### 2.2 Between-group design and within-group design
+
+---
+
+> 
+__Between-group design__ is also called “between-subject design.” between-group design has __notable disadvantages__. In a between-group experiment, we are comparing the performance of one group of participants against the performance of another group of participants. The results are subject to substantial impacts from __individual differences__. Recruiting __the number of participants__ needed for a between-group experiment can be a very challenging task. 
+
+>![fig](./Pictures%20and%20Graphs/between-group_design.jpg "between-group design")
+
+
+A __within-group design__ (also called “within-subject design”) requires each participant to be exposed to multiple experimental conditions. The biggest problem with a within-group design is __*the possible impact of learning effects*__. For instance, suppose we are conducting a within-group experiment that evaluates two types of ATM: one with a button interface and one with a touch-screen interface. The task is to withdraw money from an existing account. If the participant first completes the task using the ATM with the button interface, the participant gains some experience with the ATM interface and its functions. Therefore, the participant may perform better when subsequently completing the same tasks using the ATM with the touch-screen interface. Another potential problem with within-group designs is __*fatigue*__
+
+>![fig](./Pictures%20and%20Graphs/within-group_design.jpg "between-group design")
+
+### 2.3 how to choose appropriate design
+
+---
