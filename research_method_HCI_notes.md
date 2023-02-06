@@ -68,6 +68,9 @@ A __within-group design__ (also called “within-subject design”) requires eac
 
 >![fig](./Pictures%20and%20Graphs/within-group_design.jpg "between-group design")
 
+
+>![fig](./Pictures%20and%20Graphs/Comparison_between_two_design.jpg "Comparison")
+
 ### 2.3 how to choose appropriate design
 
 ---
