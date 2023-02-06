@@ -1,4 +1,4 @@
-# Notes-for-Virtual-Reality-Papers
+# Notes-for-Virtual-Reality-Papers-and-HCI
 
 ## Purpose
 Just record my reading notes for VR papers and HCI Research, only for learning !
