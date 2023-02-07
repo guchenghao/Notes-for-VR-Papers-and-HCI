@@ -117,4 +117,8 @@ This gives us a typical split-plot design that involves both a between-group com
 #### 2.4.3 Interaction effects
 
 
-One advantage of a factorial design is that it allows us to study the interaction effects between two or more independent variables. It is critical to **study interaction effects** in HCI studies since performance may be affected by multiple factors jointly.
+One advantage of a factorial design is that it allows us to study the interaction effects between two or more independent variables. It is critical to **study interaction effects** in HCI studies since performance may be affected by multiple factors jointly. **Interaction effects may have important implications for design.**
+
+
+>![fig](./Pictures%20and%20Graphs/Interaction_effect.jpg "Interaction effect")
+
