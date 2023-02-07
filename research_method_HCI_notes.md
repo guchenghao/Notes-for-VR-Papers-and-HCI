@@ -10,7 +10,7 @@
 
 ---
 
-> Typical research projects include a combination of two or even three kinds of investigation.
+Typical research projects include a combination of two or even three kinds of investigation.
 
 >![table](./Pictures%20and%20Graphs/Relatationship_between_different_researchs.jpg "Relationship")
 
@@ -28,7 +28,7 @@
 
 ---
 
-> Dependent variables frequently measured can be categorized into five groups: __*efficiency, accuracy, subjective satisfaction, ease of learning and retention rate, and physical or cognitive demand*__.
+Dependent variables frequently measured can be categorized into five groups: __*efficiency, accuracy, subjective satisfaction, ease of learning and retention rate, and physical or cognitive demand*__.
 
 
 >
@@ -51,7 +51,7 @@
 
 ---
 
-> The Wizard-of-Oz approach allows us to test *ideal applications* that do not exist in the real world. This approach is not without its limitations. Humans also make errors. It is very likely that the human “wizard” would make errors when listening to the dictation or when typing the words.
+The Wizard-of-Oz approach allows us to test *ideal applications* that do not exist in the real world. This approach is not without its limitations. Humans also make errors. It is very likely that the human “wizard” would make errors when listening to the dictation or when typing the words.
 
 
 ### 2.2 Between-group design and within-group design
@@ -71,6 +71,50 @@ A __within-group design__ (also called “within-subject design”) requires eac
 
 >![fig](./Pictures%20and%20Graphs/Comparison_between_two_design.jpg "Comparison")
 
-### 2.3 how to choose appropriate design
+### 2.3 How to choose appropriate design
 
 ---
+
+Many times the decision is **quite hard** to make since the advantages and disadvantages of the between-group design and within-group design are exactly opposite to each other.
+
+The size of the individual differences is very hard to estimate. However, it is empirically confirmed that individual differences are smaller when the tasks are *__simple__* and involve *__limited cognitive process__*. In contrast, individual differences are larger when the task is complicated or involves significant cognitive functions.
+
+Difficulty in finding and recruiting qualified participants is a problem frequently faced by many HCI researchers.
+
+
+Having decided to adopt a **within-group design**, you need to consider how to control the negative impact of learning effects, fatigue, and other potential problems associated with a within-group design.
+
+
+providing sufficient training time for users to get acquainted with the system or the task greatly reduces the learning effect during the actual task sessions. Of course, __training cannot completely eliminate the learning effect__. It only reduces its impact. This approach, combined with the counterbalancing of task conditions, is widely adopted in HCI studies to control the impact of learning.
+
+
+To address the problem of *fatigue* caused by multiple experimental tasks, we need to design experiment tasks frugally, **reducing the required number of tasks** and **shortening the experiment time whenever possible**.
+
+
+
+### 2.4 Investigate more than one independent variable
+
+---
+
+#### 2.4.1 Factorial design
+
+***Factorial designs*** are widely adopted when an experiment investigates **more than one** independent variable or factor. It allows us to simultaneously investigate the impact of **all independent variables** as well as the ***interaction effects*** between multiple variables
+
+>![fig](./Pictures%20and%20Graphs/factorial_design.jpg "Factorial design")
+
+
+#### 2.4.2 Split-plot design
+
+In a factorial study, we can also choose a split-plot design. A ***split-plot design*** has **<u>both between-group components and within-group components</u>**. That is, one or more independent variables are investigated through a between-group approach and the other variables are investigated through a within-group approach.
+
+
+>![fig](./Pictures%20and%20Graphs/split_plot_design.jpg "split-plot design")
+
+
+This gives us a typical split-plot design that involves both a between-group component (age analysis is based on the columns) and a within-group component (GPS use is analyzed by comparing condition 1 with condition 4, condition 2 with condition 5, and condition 3 with condition 6).
+
+
+#### 2.4.3 Interaction effects
+
+
+One advantage of a factorial design is that it allows us to study the interaction effects between two or more independent variables. It is critical to **study interaction effects** in HCI studies since performance may be affected by multiple factors jointly.
