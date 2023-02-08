@@ -122,3 +122,27 @@ One advantage of a factorial design is that it allows us to study the interactio
 
 >![fig](./Pictures%20and%20Graphs/Interaction_effect.jpg "Interaction effect")
 
+
+### 2.5 Reliability of experiment results
+
+---
+
+**Random errors** are also called “chance errors” or “noise”. There is no way to eliminate or control random errors but we can reduce the impact of random errors by enlarging the observed sample size.
+
+**Systematic errors**, also called “**biases**”. While random errors cause variations in observed values in both d tions around the actual value, systematic errors always push the observed values in the same direction.
+
+A **pilot study** is not a luxury that we conduct only when we have plenty of time or money to spend. On the contrary, years of experience tells us that pilot studies are critical for all HCI experiments to identify potential biases. A pilot study is the only chance you have to **fix your mistakes** before you run the main study.
+
+
+**Environmental factors** can be categorized into two groups: <u>**physical environmental factors**</u> and <u>**social environmental factors**</u>. Examples of physical environmental factors include noise, temperature, lighting, vibration, and humidity. Examples of social environmental factors include the number of people in the surrounding environment and the relationship between those people and the participant.
+
+
+>![fig](./Pictures%20and%20Graphs/Lifecycle_of_HCI_research.jpg "life cycle of HCI research")
+
+
+We should try to avoid or control biases through:
+1. **accurate and appropriate measurement devices** and scales; 
+2. clearly defined and d**etailed experimental procedures**; 
+3. **carefully recruited participants**; 
+4. well-trained, professional, and unbiased **experimenters**; 
+5. well-controlled **environments**.
