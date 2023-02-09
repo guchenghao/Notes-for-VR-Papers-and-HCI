@@ -146,3 +146,52 @@ We should try to avoid or control biases through:
 3. **carefully recruited participants**; 
 4. well-trained, professional, and unbiased **experimenters**; 
 5. well-controlled **environments**.
+
+
+## 3. Statistical analysis
+
+### 3.1 Preparing data
+
+---
+
+* Cleaning up data
+* Coding data
+* Organizing  data
+
+
+### 3.2 Descriptive  statistical
+
+---
+
+#### 3.2.1 Central tendency
+
+
+Various measures can be used to describe the central tendency of a data set, including **the mean**, **the median**, and **the mode**
+
+
+#### 3.2.2 Spread
+
+Measures in this group include **range**, **variances**, and **standard deviations**.
+
+
+#### 3.2.3 Comparing Means
+
+Due to variances in the data, you **should not directly** compare the means of the multiple conditions and claim that a difference exists as long as the means are different.
+
+Various significance tests are available to compare the means of multiple groups. Commonly used tests include **<u>t tests</u>** and the **<u>ANOVA</u>**.
+
+* ***T-test***: A t test is a simplified ANOVA involving **only two groups or conditions**. 
+* ***ANOVA***: When a study involves **more than two conditions**, an ANOVA test has to be used.
+
+>![fig](./Pictures%20and%20Graphs/T_test_and_ANOVA.jpg "significance tests")
+
+
+
+When the two groups being compared are **presumably unrelated**, an **<u>independent-samples t test</u>** can be used. When the two means are contributed by the **same group**, a **<u>paired-samples t test</u>** can be considered.
+
+The t tests return a value, ***t***, with larger t values suggesting higher probability of the null hypothesis being false. In other words, <u>the higher the t value, the more likely the two means are different</u>.
+
+The returned t value is **2.169**, which is **higher than the t value** for <u>the specific degree of freedom (df = 15) at the 95% confidence interval (t = 2.131)</u>. For instance: An independent-samples t test suggests that there is significant difference in the task completion time between the group who used the standard word-processing software and the group who used word-processing software with word prediction functions **(t(15) = 2.169, p < 0.05)**.
+
+
+>![fig](./Pictures%20and%20Graphs/Independent_t_test.jpg "significance tests")
