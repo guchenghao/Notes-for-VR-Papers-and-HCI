@@ -186,6 +186,8 @@ Various significance tests are available to compare the means of multiple groups
 >![fig](./Pictures%20and%20Graphs/T_test_and_ANOVA.jpg "significance tests")
 
 
+### 3.3 T-test
+---
 
 When the two groups being compared are **presumably unrelated**, an **<u>independent-samples t test</u>** can be used. When the two means are contributed by the **same group**, a **<u>paired-samples t test</u>** can be considered.
 
@@ -195,3 +197,14 @@ The returned t value is **2.169**, which is **higher than the t value** for <u>t
 
 
 >![fig](./Pictures%20and%20Graphs/Independent_t_test.jpg "significance tests")
+
+
+
+### 3.4 ANOVA
+---
+
+
+
+### 3.5 Assumption of T-test and ANOVA
+---
+
