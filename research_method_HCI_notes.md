@@ -247,6 +247,12 @@ ANOVA has several types:
 >![fig](./Pictures%20and%20Graphs/One-way_repeated_measures.jpg "Explaination")
 
 
+
+#### 3.4.4 Python and ANOVA
+
+[1]: https://www.reneshbedre.com/blog/anova.html
+[2]: https://www.reneshbedre.com/blog/repeated-measure-anova.html
+
 ### 3.5 Assumption of T-test and ANOVA
 ---
 
