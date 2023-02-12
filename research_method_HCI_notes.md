@@ -189,6 +189,11 @@ Various significance tests are available to compare the means of multiple groups
 ### 3.3 T-test
 ---
 
+T-test has several types:
+
+- **Independent-samples T-test**
+- **Paried-samples T-test**
+
 When the two groups being compared are **presumably unrelated**, an **<u>independent-samples t test</u>** can be used. When the two means are contributed by the **same group**, a **<u>paired-samples t test</u>** can be considered.
 
 The t tests return a value, ***t***, with larger t values suggesting higher probability of the null hypothesis being false. In other words, <u>the higher the t value, the more likely the two means are different</u>.
@@ -203,8 +208,38 @@ The returned t value is **2.169**, which is **higher than the t value** for <u>t
 ### 3.4 ANOVA
 ---
 
+ANOVA has several types:
+
+- **One-way ANOVA**
+  - **One-way between-group ANOVA**
+  - **One-way within-group ANOVA**, also **Repeated measures ANOVA**
+- **Two-way ANOVA**, also **Factorial ANOVA**
+
+>![fig](./Pictures%20and%20Graphs/Repeated_measures_ANOVA.jpg "repeated measures")
+
+>![fig](./Pictures%20and%20Graphs/results_of_Repeated_ANOVA.jpg "result 1")
+
+    The returned F value with degree of freedom (2, 14) is 2.925. It is below the 95% confidence interval, suggesting that there is no significant difference between the three text entry methods.
+
+
+
+>![fig](./Pictures%20and%20Graphs/Two-way_repeated_measures.jpg "two-way repeated measures")
+
+
+>![fig](./Pictures%20and%20Graphs/results_of_two-way_repeated_measures.jpg "result 2")
+
+    The task type has a significant impact on the time spent to c plete the task (F(1, 7) = 14.217, p < 0.01). There is no significant difference among the three text entry methods (F(2, 14) = 2.923, n.s.). The interaction effect between the two independent variables is not significant either (F(2, 14) = 0.759, n.s.).
+
+
+>![fig](./Pictures%20and%20Graphs/Detailed_explaination.jpg "Explaination")
+
 
 
 ### 3.5 Assumption of T-test and ANOVA
 ---
 
+Before running a t test or an F test, it is important to examine whether your data meet the assumptions of the two tests.
+
+* First, the errors of all data points should be independent of each other. If they are not independent of each other, the result of the test can be misleading.
+* Second, the errors in the data need to be identically distributed.
+* Third, the errors in the data should be normally distributed.
