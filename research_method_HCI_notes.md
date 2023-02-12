@@ -231,8 +231,20 @@ ANOVA has several types:
     The task type has a significant impact on the time spent to c plete the task (F(1, 7) = 14.217, p < 0.01). There is no significant difference among the three text entry methods (F(2, 14) = 2.923, n.s.). The interaction effect between the two independent variables is not significant either (F(2, 14) = 0.759, n.s.).
 
 
->![fig](./Pictures%20and%20Graphs/Detailed_explaination.jpg "Explaination")
+#### 3.4.1 One-way(one-factor) test Explaination
 
+>![fig](./Pictures%20and%20Graphs/one-way_explaination.jpg "Explaination")
+
+
+#### 3.4.2 Two-way(Factorial tet) test Explaination
+
+>![fig](./Pictures%20and%20Graphs/Two-way_explaination.jpg "Explaination")
+
+
+
+#### 3.4.3 One-way repeated measures test Explaination
+
+>![fig](./Pictures%20and%20Graphs/One-way_repeated_measures.jpg "Explaination")
 
 
 ### 3.5 Assumption of T-test and ANOVA
