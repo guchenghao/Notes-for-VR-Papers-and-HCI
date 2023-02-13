@@ -250,8 +250,11 @@ ANOVA has several types:
 
 #### 3.4.4 Python and ANOVA
 
-[1]: https://www.reneshbedre.com/blog/anova.html
-[2]: https://www.reneshbedre.com/blog/repeated-measure-anova.html
+ANOVA: <https://www.reneshbedre.com/blog/anova.html>
+
+Repeated-measure-anova: <https://www.reneshbedre.com/blog/repeated-measure-anova.html>
+
+
 
 ### 3.5 Assumption of T-test and ANOVA
 ---
@@ -261,3 +264,57 @@ Before running a t test or an F test, it is important to examine whether your da
 * First, the errors of all data points should be independent of each other. If they are not independent of each other, the result of the test can be misleading.
 * Second, the errors in the data need to be identically distributed.
 * Third, the errors in the data should be normally distributed.
+
+
+
+### 3.6 Identifying relationships
+---
+
+#### 3.6.1 Pearson correlation coeffcient test 
+
+One of the most common objectives for HCI-related studies is to **identify relationships** between various factors. The most widely used statistical method for testing correlation is **<u>the Pearson's product moment correlation coefficient test</u>**.
+
+The value of Pearson's r ranges from **−1.00 to 1.00**. When the Pearson's r value between two variables is −1.00, it suggests a perfect negative linear relationship between the two variables. When the Pearson's r value between two variables is 1.00, it suggests a perfect positive linear relationship between the two variables. When the Pearson's r value is 0, it means that there is no linear relationship between the two variables.
+
+In practice, the Pearson's r.pow(2) is reported more often than the Pearson's r. The r.pow(2) represents the proportion of the variance shared by the two variables. Suppose we have two variables X and Y, the **<u>r.pow(2) represents the percentage of variance in variable X that can be explained by variable Y</u>**. 
+
+***The most important thing to keep in mind about correlation is that it does not imply a causal relationship.***
+
+
+
+#### 3.6.2 Regression
+
+Unlike correlation analysis, which allows the study of **only two variables**, ***regression analysis*** allows you to **investigate the relationship among one dependent variable and a number of independent variables**.
+
+In HCI-related studies, ***regression analysis*** is used for two main purposes: **<u>model construction and prediction</u>**. In cases of model construction, we are interested in identifying the quantitative relationship between one dependent variable and a number of independent variables. In cases of prediction, we are interested in using a number of known factors, also called “predictor variables,” to **predict the value of the dependent variable**, also called the “criterion variable”
+
+>![fig](./Pictures%20and%20Graphs/Regression_analysis.jpg "Regression analysis")
+
+
+    In this regression analysis, the dependent variable is the task completion time. The independent variables are age, computer experience (as represented by the number of years using computers), target size, and the distance between the current cursor location and the target.
+
+
+***If you are interested in the impact that each independent variable has on task completion time, the hierarchical regression procedure can be adopted.*** Suppose **<u>target size and navigation distance are the most important factors that you want to examine</u>**; you can enter target size in the first block for independent variables and navigation distance, age, and computer experience into the subsequent blocks.
+
+
+### 3.7 Nonparametric statistical tests
+---
+
+Although nonparametric tests are also called <u>"assumption-free" tests</u>, it should be noted that they are not actually free of assumptions. Nonparametric analysis sacrifices the power to use all available i tion to reject a false null hypothesis in exchange for less strict assumptions about the data.
+
+
+#### 3.7.1 Chi-Ssquared test
+
+***The Chi-squared test is probably the most popular significance test used to analyze frequency counts***
+
+The degree of freedom of a Chi-squared test is calculated by the following equation:
+
+Degree of freedom = (Number of rows - 1) - 1 (Number of columns)
+
+
+>![fig](./Pictures%20and%20Graphs/Chi-squared_frequency_counts.jpg "Chi-squared test")
+
+
+
+
+
