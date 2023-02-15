@@ -316,5 +316,16 @@ Degree of freedom = (Number of rows - 1) - 1 (Number of columns)
 
 
 
+## 4. Surveys
 
+
+***Surveys*** are one of the **most commonly used** research methods, across all fields of research, not just human-computer interaction (HCI). Surveys are also one of the **<u>most maligned</u>** methods. Surveys can be s tured, well-tested, robust, and result in data with a high level of validity. **However, surveys can be poorly done, resulting in data of questionable validity**.
+
+The **<u>strength</u>** of the survey is the ability to get a large number of responses quickly from a population of users that is geographically dispersed. 
+
+One of the reasons why surveys may <u>be maligned</u> is that they are often used **not because they are the most appropriate method but because they are the easiest method**.
+
+Survey research may be the **most appropriate** methodology for <u>**measuring attitudes, awareness, intent, feedback about user experiences, characteristics of users, and over-time comparisons**</u>.
+
+A combination of <u>computer-collected data</u> and <u>a user survey</u> might **make the most sense**.
 
