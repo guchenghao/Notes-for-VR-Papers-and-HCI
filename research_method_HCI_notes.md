@@ -336,7 +336,7 @@ Since surveys are good for getting responses from large numbers of people, they 
 
 The population of interest is generally a bit more focused than just the general public, or a very broad set of criteria. Often, there is a much more focused set of **inclusion criteria**. Social networking applications can help recruit participants with a shared interest, for participation in a survey study.
 
-If the population for a survey is not easily well-defined, then the goal may be either to get a response that is diverse and represents multiple subgroups within the respondents or to get a survey response that matches what is known about the population.
+If the population for a survey is not easily well-defined, then the goal may be either to get a response that is **diverse** and **represents multiple subgroups** within the respondents or to get a survey response that matches what is known about the population.
 
 The classic use of a survey in sociology is to make estimates for populations. The most accurate way to do this is by **running a census**, in which you attempt to get a survey response from every member of a population.
 
@@ -345,8 +345,8 @@ If it is feasible for random sampling to be used in the research, this is prefer
 
 Random sampling seems like an ideal method but it is subject to a number of potential errors and biases:
 
-- **Coverage error** occurs when not all members of the population of interest have an equal chance of being selected for the survey
-- **Measurement error** occurs when survey questions are poorly worded or biased, leading to data of questionable quality
-- **Nonresponse error** occurs when there are major differences (in demographics, such as age or gender) between the people who responded to a survey
+- **Coverage error** occurs when <u>not all members of the population of interest</u> have an equal chance of being selected for the survey;
+- **Measurement error** occurs when survey questions are <u>poorly worded or biased</u>, leading to data of questionable quality;
+- **Nonresponse error** occurs when there are <u>major differences</u> (in demographics, such as age or gender) between the people who responded to a survey.
 
 
