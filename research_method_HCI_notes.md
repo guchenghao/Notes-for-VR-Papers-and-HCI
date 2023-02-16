@@ -329,3 +329,24 @@ Survey research may be the **most appropriate** methodology for <u>**measuring a
 
 A combination of <u>computer-collected data</u> and <u>a user survey</u> might **make the most sense**.
 
+
+### 4.1 Goal and targeted users for survey research
+
+Since surveys are good for getting responses from large numbers of people, they are often used for collecting thousands, or even millions, of responses. The population of interest is also known as the "**target population**".
+
+The population of interest is generally a bit more focused than just the general public, or a very broad set of criteria. Often, there is a much more focused set of **inclusion criteria**. Social networking applications can help recruit participants with a shared interest, for participation in a survey study.
+
+If the population for a survey is not easily well-defined, then the goal may be either to get a response that is diverse and represents multiple subgroups within the respondents or to get a survey response that matches what is known about the population.
+
+The classic use of a survey in sociology is to make estimates for populations. The most accurate way to do this is by **running a census**, in which you attempt to get a survey response from every member of a population.
+
+If it is feasible for random sampling to be used in the research, this is preferable. In probabilistic sampling, the number of responses required depends on what level of confidence and margin of error are considered acceptable. For instance, **for a simple random sample, a sample size of 384 may lead to a 95% confidence level with a ±5% margin of error**.
+
+
+Random sampling seems like an ideal method but it is subject to a number of potential errors and biases:
+
+- **Coverage error** occurs when not all members of the population of interest have an equal chance of being selected for the survey
+- **Measurement error** occurs when survey questions are poorly worded or biased, leading to data of questionable quality
+- **Nonresponse error** occurs when there are major differences (in demographics, such as age or gender) between the people who responded to a survey
+
+
