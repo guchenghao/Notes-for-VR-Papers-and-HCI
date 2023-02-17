@@ -331,6 +331,7 @@ A combination of <u>computer-collected data</u> and <u>a user survey</u> might *
 
 
 ### 4.1 Goal and targeted users for survey research
+---
 
 Since surveys are good for getting responses from large numbers of people, they are often used for collecting thousands, or even millions, of responses. The population of interest is also known as the "**target population**".
 
@@ -348,5 +349,48 @@ Random sampling seems like an ideal method but it is subject to a number of pote
 - **Coverage error** occurs when <u>not all members of the population of interest</u> have an equal chance of being selected for the survey;
 - **Measurement error** occurs when survey questions are <u>poorly worded or biased</u>, leading to data of questionable quality;
 - **Nonresponse error** occurs when there are <u>major differences</u> (in demographics, such as age or gender) between the people who responded to a survey.
+
+
+### 4.2 Nonprobability samples
+---
+
+In HCI, **researchers must, typically, collect the data themselves**. No large, well-structured data sets exist. The HCI researcher must **go out, find users to take part in their research, and collect the data, as well as analyze the data**. Because of this difference, both ***probability samples*** and ***nonprobability samples*** are considered valid in HCI research.
+
+
+When there is not a well-defined list of users and strict random sampling is not possible, then **the number of responses becomes increasingly important**. 
+
+If a ***self-selected survey*** is used, then both **the number of survey responses** and the **demographic data** on respondents become increasingly important in establishing the validity of the survey data.
+
+**snowball sampling** can assist with getting survey responses. Snowball sampling is when individuals may not only respond to a survey, but also **recruit someone else (usually a friend or colleague)** to take part in the survey. This method may work well when the population of interest is very small and hard to “break into,” and individuals in the population of interest may know each other well.
+
+
+
+### 4.3 Developing survey questions
+---
+
+#### 4.3.1 Open-ended questions
+
+
+**Open-ended questions** are useful in getting a better understanding of phenomena, because they give respondents complete flexibility in their answers. aside from the obvious drawback of more complex data analysis,**open-ended questions must be carefully worded**
+
+
+#### 4.3.2 Close-ended questions
+
+There are two types of **closed-ended questions**:
+- Ordered response categories
+- Non-ordered response categories
+
+For instance, using a scale such as “excellent to poor” or “strongly agree to strongly disagree” would be an ordered response. ***Likert scale questions***, which often take the form of a scale of 1 to 5, 7, or 9, ask users to note where they fall on a scale of, for example, “strongly agree” to “strongly disagree.”
+
+
+#### 4.3.3 Problems with survey questions
+
+It is important to note that there are a number of common problems with survey questions:
+
+- A “double-barreled question” asks two separate (e.g., **“How long have you used the Word processing software and which advanced features have you used?”**)
+- The use of negative words in questions (e.g., **“Do you agree that the e-mail software is not easy to use?”**)
+- Biased wording in questions
+- “Hot-button” words
+
 
 
