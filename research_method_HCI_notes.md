@@ -373,6 +373,12 @@ If a ***self-selected survey*** is used, then both **the number of survey respon
 
 **Open-ended questions** are useful in getting a better understanding of phenomena, because they give respondents complete flexibility in their answers. aside from the obvious drawback of more complex data analysis,**open-ended questions must be carefully worded**
 
+>![fig](./Pictures%20and%20Graphs/Open-ended_questions1.jpg "question")
+
+
+
+>![fig](./Pictures%20and%20Graphs/Open-ended_questions2.jpg "question")
+
 
 #### 4.3.2 Close-ended questions
 
@@ -381,6 +387,8 @@ There are two types of **closed-ended questions**:
 - Non-ordered response categories
 
 For instance, using a scale such as “excellent to poor” or “strongly agree to strongly disagree” would be an ordered response. ***Likert scale questions***, which often take the form of a scale of 1 to 5, 7, or 9, ask users to note where they fall on a scale of, for example, “strongly agree” to “strongly disagree.”
+
+>![fig](./Pictures%20and%20Graphs/Closed-ended_questions.jpg "question")
 
 
 #### 4.3.3 Problems with survey questions
