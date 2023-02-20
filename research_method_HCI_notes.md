@@ -1,4 +1,4 @@
-# Notes for Research Method in Human Computer Interaction
+# Notes for Research Method in Human-Computer Interaction
 
 
 
@@ -129,9 +129,9 @@ One advantage of a factorial design is that it allows us to study the interactio
 
 **Random errors** are also called “chance errors” or “noise”. There is no way to eliminate or control random errors but we can reduce the impact of random errors by enlarging the observed sample size.
 
-**Systematic errors**, also called “**biases**”. While random errors cause variations in observed values in both d tions around the actual value, systematic errors always push the observed values in the same direction.
+**Systematic errors** are also called “**biases**”. While random errors cause variations in observed values in both d tions around the actual value, systematic errors always push the observed values in the same direction.
 
-A **pilot study** is not a luxury that we conduct only when we have plenty of time or money to spend. On the contrary, years of experience tells us that pilot studies are critical for all HCI experiments to identify potential biases. A pilot study is the only chance you have to **fix your mistakes** before you run the main study.
+A **pilot study** is not a luxury that we conduct only when we have plenty of time or money to spend. On the contrary, years of experience tell us that pilot studies are critical for all HCI experiments to identify potential biases. A pilot study is the only chance you have to **fix your mistakes** before you run the main study.
 
 
 **Environmental factors** can be categorized into two groups: <u>**physical environmental factors**</u> and <u>**social environmental factors**</u>. Examples of physical environmental factors include noise, temperature, lighting, vibration, and humidity. Examples of social environmental factors include the number of people in the surrounding environment and the relationship between those people and the participant.
@@ -178,9 +178,9 @@ Measures in this group include **range**, **variances**, and **standard deviatio
 
 Due to variances in the data, you **should not directly** compare the means of the multiple conditions and claim that a difference exists as long as the means are different.
 
-Various significance tests are available to compare the means of multiple groups. Commonly used tests include **<u>t tests</u>** and the **<u>ANOVA</u>**.
+Various significance tests are available to compare the means of multiple groups. Commonly used tests include **<u>t-tests</u>** and the **<u>ANOVA</u>**.
 
-* ***T-test***: A t test is a simplified ANOVA involving **only two groups or conditions**. 
+* ***T-test***: A t-test is a simplified ANOVA involving **only two groups or conditions**. 
 * ***ANOVA***: When a study involves **more than two conditions**, an ANOVA test has to be used.
 
 >![fig](./Pictures%20and%20Graphs/T_test_and_ANOVA.jpg "significance tests")
@@ -192,13 +192,13 @@ Various significance tests are available to compare the means of multiple groups
 T-test has several types:
 
 - **Independent-samples T-test**
-- **Paried-samples T-test**
+- **Paired-samples T-test**
 
-When the two groups being compared are **presumably unrelated**, an **<u>independent-samples t test</u>** can be used. When the two means are contributed by the **same group**, a **<u>paired-samples t test</u>** can be considered.
+When the two groups being compared are **presumably unrelated**, an **<u>independent-samples t-test</u>** can be used. When the two means are contributed by the **same group**, a **<u>paired-samples t-test</u>** can be considered.
 
-The t tests return a value, ***t***, with larger t values suggesting higher probability of the null hypothesis being false. In other words, <u>the higher the t value, the more likely the two means are different</u>.
+The t-tests return a value, ***t***, with larger t values suggesting higher probability of the null hypothesis being false. In other words, <u>the higher the t value, the more likely the two means are different</u>.
 
-The returned t value is **2.169**, which is **higher than the t value** for <u>the specific degree of freedom (df = 15) at the 95% confidence interval (t = 2.131)</u>. For instance: An independent-samples t test suggests that there is significant difference in the task completion time between the group who used the standard word-processing software and the group who used word-processing software with word prediction functions **(t(15) = 2.169, p < 0.05)**.
+The returned t value is **2.169**, which is **higher than the t value** for <u>the specific degree of freedom (df = 15) at the 95% confidence interval (t = 2.131)</u>. For instance: An independent-samples t-test suggests that there is significant difference in the task completion time between the group who used the standard word-processing software and the group who used word-processing software with word prediction functions **(t(15) = 2.169, p < 0.05)**.
 
 
 >![fig](./Pictures%20and%20Graphs/Independent_t_test.jpg "significance tests")
@@ -228,7 +228,7 @@ ANOVA has several types:
 
 >![fig](./Pictures%20and%20Graphs/results_of_two-way_repeated_measures.jpg "result 2")
 
-    The task type has a significant impact on the time spent to c plete the task (F(1, 7) = 14.217, p < 0.01). There is no significant difference among the three text entry methods (F(2, 14) = 2.923, n.s.). The interaction effect between the two independent variables is not significant either (F(2, 14) = 0.759, n.s.).
+    The task type has a significant impact on the time spent completing the task (F(1, 7) = 14.217, p < 0.01). There is no significant difference among the three text entry methods (F(2, 14) = 2.923, n.s.). The interaction effect between the two independent variables is not significant either (F(2, 14) = 0.759, n.s.).
 
 
 #### 3.4.1 One-way(one-factor) test Explaination
@@ -242,7 +242,7 @@ ANOVA has several types:
 
 
 
-#### 3.4.3 One-way repeated measures test Explaination
+#### 3.4.3 One-way repeated measures test Explanation
 
 >![fig](./Pictures%20and%20Graphs/One-way_repeated_measures.jpg "Explaination")
 
@@ -259,7 +259,7 @@ Repeated-measure-anova: <https://www.reneshbedre.com/blog/repeated-measure-anova
 ### 3.5 Assumption of T-test and ANOVA
 ---
 
-Before running a t test or an F test, it is important to examine whether your data meet the assumptions of the two tests.
+Before running a t-test or an F-test, it is important to examine whether your data meet the assumptions of the two tests.
 
 * First, the errors of all data points should be independent of each other. If they are not independent of each other, the result of the test can be misleading.
 * Second, the errors in the data need to be identically distributed.
@@ -270,7 +270,7 @@ Before running a t test or an F test, it is important to examine whether your da
 ### 3.6 Identifying relationships
 ---
 
-#### 3.6.1 Pearson correlation coeffcient test 
+#### 3.6.1 Pearson correlation coefficient test 
 
 One of the most common objectives for HCI-related studies is to **identify relationships** between various factors. The most widely used statistical method for testing correlation is **<u>the Pearson's product moment correlation coefficient test</u>**.
 
@@ -361,7 +361,7 @@ When there is not a well-defined list of users and strict random sampling is not
 
 If a ***self-selected survey*** is used, then both **the number of survey responses** and the **demographic data** on respondents become increasingly important in establishing the validity of the survey data.
 
-**snowball sampling** can assist with getting survey responses. Snowball sampling is when individuals may not only respond to a survey, but also **recruit someone else (usually a friend or colleague)** to take part in the survey. This method may work well when the population of interest is very small and hard to “break into,” and individuals in the population of interest may know each other well.
+**snowball sampling** can assist with getting survey responses. Snowball sampling is when individuals may not only respond to a survey but also **recruit someone else (usually a friend or colleague)** to take part in the survey. This method may work well when the population of interest is very small and hard to “break into,” and individuals in the population of interest may know each other well.
 
 
 
@@ -371,7 +371,7 @@ If a ***self-selected survey*** is used, then both **the number of survey respon
 #### 4.3.1 Open-ended questions
 
 
-**Open-ended questions** are useful in getting a better understanding of phenomena, because they give respondents complete flexibility in their answers. aside from the obvious drawback of more complex data analysis,**open-ended questions must be carefully worded**
+**Open-ended questions** are useful in getting a better understanding of phenomena, because they give respondents complete flexibility in their answers. aside from the obvious drawback of more complex data analysis, **open-ended questions must be carefully worded**
 
 >![fig](./Pictures%20and%20Graphs/Open-ended_questions1.jpg "question")
 
