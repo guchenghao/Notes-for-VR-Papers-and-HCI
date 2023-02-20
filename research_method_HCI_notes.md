@@ -12,16 +12,16 @@
 
 Typical research projects include a combination of two or even three kinds of investigation.
 
->![table](./Pictures%20and%20Graphs/Relatationship_between_different_researchs.jpg "Relationship")
+![table](./Pictures%20and%20Graphs/Relatationship_between_different_researchs.jpg "Relationship")
 
->
+
 * __Descriptive__: Descriptive investigations are often the first step of a research program, enabling researchers to identify interesting phenomena or events that establish the cornerstone of the research and identify future research directions.
   
 * __Relational__: Relational investigations enable researchers or practitioners to discover connections between multiple events or variables.
   
 * __Experimental__: Experimental research provides the opportunity to explore the fundamental causal relations
 
->
+
 
 
 ### 1.2 TYPICAL DEPENDENT VARIABLES IN HCI RESEARCH
@@ -31,7 +31,7 @@ Typical research projects include a combination of two or even three kinds of in
 Dependent variables frequently measured can be categorized into five groups: __*efficiency, accuracy, subjective satisfaction, ease of learning and retention rate, and physical or cognitive demand*__.
 
 
->
+
 * __Efficiency__: Efficiency describes how fast a task can be completed.
   
 * __Accuracy__: Accuracy describes the states in which the system or the user makes errors.
@@ -41,7 +41,7 @@ Dependent variables frequently measured can be categorized into five groups: __*
 * __Ease of Learning__: Ease of learning and retention rate describe how quickly and how easily an individual can learn to use a new application or complete a new task and how long they retain the learned skills
 
 * __Physical or cognitive demand__: an application or a task exerts on an individual or how long an individual can interact with an application without significant fatigue.
->
+
 
 
 ## 2. Experiment Design
@@ -61,15 +61,15 @@ The Wizard-of-Oz approach allows us to test *ideal applications* that do not exi
 > 
 __Between-group design__ is also called “between-subject design.” between-group design has __notable disadvantages__. In a between-group experiment, we are comparing the performance of one group of participants against the performance of another group of participants. The results are subject to substantial impacts from __individual differences__. Recruiting __the number of participants__ needed for a between-group experiment can be a very challenging task. 
 
->![fig](./Pictures%20and%20Graphs/between-group_design.jpg "between-group design")
+![fig](./Pictures%20and%20Graphs/between-group_design.jpg "between-group design")
 
 
 A __within-group design__ (also called “within-subject design”) requires each participant to be exposed to multiple experimental conditions. The biggest problem with a within-group design is __*the possible impact of learning effects*__. For instance, suppose we are conducting a within-group experiment that evaluates two types of ATM: one with a button interface and one with a touch-screen interface. The task is to withdraw money from an existing account. If the participant first completes the task using the ATM with the button interface, the participant gains some experience with the ATM interface and its functions. Therefore, the participant may perform better when subsequently completing the same tasks using the ATM with the touch-screen interface. Another potential problem with within-group designs is __*fatigue*__
 
->![fig](./Pictures%20and%20Graphs/within-group_design.jpg "between-group design")
+![fig](./Pictures%20and%20Graphs/within-group_design.jpg "between-group design")
 
 
->![fig](./Pictures%20and%20Graphs/Comparison_between_two_design.jpg "Comparison")
+![fig](./Pictures%20and%20Graphs/Comparison_between_two_design.jpg "Comparison")
 
 ### 2.3 How to choose appropriate design
 
@@ -100,7 +100,7 @@ To address the problem of *fatigue* caused by multiple experimental tasks, we ne
 
 ***Factorial designs*** are widely adopted when an experiment investigates **more than one** independent variable or factor. It allows us to simultaneously investigate the impact of **all independent variables** as well as the ***interaction effects*** between multiple variables
 
->![fig](./Pictures%20and%20Graphs/factorial_design.jpg "Factorial design")
+![fig](./Pictures%20and%20Graphs/factorial_design.jpg "Factorial design")
 
 
 #### 2.4.2 Split-plot design
@@ -108,7 +108,7 @@ To address the problem of *fatigue* caused by multiple experimental tasks, we ne
 In a factorial study, we can also choose a split-plot design. A ***split-plot design*** has **<u>both between-group components and within-group components</u>**. That is, one or more independent variables are investigated through a between-group approach and the other variables are investigated through a within-group approach.
 
 
->![fig](./Pictures%20and%20Graphs/split_plot_design.jpg "split-plot design")
+![fig](./Pictures%20and%20Graphs/split_plot_design.jpg "split-plot design")
 
 
 This gives us a typical split-plot design that involves both a between-group component (age analysis is based on the columns) and a within-group component (GPS use is analyzed by comparing condition 1 with condition 4, condition 2 with condition 5, and condition 3 with condition 6).
@@ -120,7 +120,7 @@ This gives us a typical split-plot design that involves both a between-group com
 One advantage of a factorial design is that it allows us to study the interaction effects between two or more independent variables. It is critical to **study interaction effects** in HCI studies since performance may be affected by multiple factors jointly. **Interaction effects may have important implications for design.**
 
 
->![fig](./Pictures%20and%20Graphs/Interaction_effect.jpg "Interaction effect")
+![fig](./Pictures%20and%20Graphs/Interaction_effect.jpg "Interaction effect")
 
 
 ### 2.5 Reliability of experiment results
@@ -137,7 +137,7 @@ A **pilot study** is not a luxury that we conduct only when we have plenty of ti
 **Environmental factors** can be categorized into two groups: <u>**physical environmental factors**</u> and <u>**social environmental factors**</u>. Examples of physical environmental factors include noise, temperature, lighting, vibration, and humidity. Examples of social environmental factors include the number of people in the surrounding environment and the relationship between those people and the participant.
 
 
->![fig](./Pictures%20and%20Graphs/Lifecycle_of_HCI_research.jpg "life cycle of HCI research")
+![fig](./Pictures%20and%20Graphs/Lifecycle_of_HCI_research.jpg "life cycle of HCI research")
 
 
 We should try to avoid or control biases through:
@@ -183,7 +183,7 @@ Various significance tests are available to compare the means of multiple groups
 * ***T-test***: A t-test is a simplified ANOVA involving **only two groups or conditions**. 
 * ***ANOVA***: When a study involves **more than two conditions**, an ANOVA test has to be used.
 
->![fig](./Pictures%20and%20Graphs/T_test_and_ANOVA.jpg "significance tests")
+![fig](./Pictures%20and%20Graphs/T_test_and_ANOVA.jpg "significance tests")
 
 
 ### 3.3 T-test
@@ -201,7 +201,7 @@ The t-tests return a value, ***t***, with larger t values suggesting higher prob
 The returned t value is **2.169**, which is **higher than the t value** for <u>the specific degree of freedom (df = 15) at the 95% confidence interval (t = 2.131)</u>. For instance: An independent-samples t-test suggests that there is significant difference in the task completion time between the group who used the standard word-processing software and the group who used word-processing software with word prediction functions **(t(15) = 2.169, p < 0.05)**.
 
 
->![fig](./Pictures%20and%20Graphs/Independent_t_test.jpg "significance tests")
+![fig](./Pictures%20and%20Graphs/Independent_t_test.jpg "significance tests")
 
 
 
@@ -215,36 +215,36 @@ ANOVA has several types:
   - **One-way within-group ANOVA**, also **Repeated measures ANOVA**
 - **Two-way ANOVA**, also **Factorial ANOVA**
 
->![fig](./Pictures%20and%20Graphs/Repeated_measures_ANOVA.jpg "repeated measures")
+![fig](./Pictures%20and%20Graphs/Repeated_measures_ANOVA.jpg "repeated measures")
 
->![fig](./Pictures%20and%20Graphs/results_of_Repeated_ANOVA.jpg "result 1")
+![fig](./Pictures%20and%20Graphs/results_of_Repeated_ANOVA.jpg "result 1")
 
     The returned F value with degree of freedom (2, 14) is 2.925. It is below the 95% confidence interval, suggesting that there is no significant difference between the three text entry methods.
 
 
 
->![fig](./Pictures%20and%20Graphs/Two-way_repeated_measures.jpg "two-way repeated measures")
+![fig](./Pictures%20and%20Graphs/Two-way_repeated_measures.jpg "two-way repeated measures")
 
 
->![fig](./Pictures%20and%20Graphs/results_of_two-way_repeated_measures.jpg "result 2")
+![fig](./Pictures%20and%20Graphs/results_of_two-way_repeated_measures.jpg "result 2")
 
     The task type has a significant impact on the time spent completing the task (F(1, 7) = 14.217, p < 0.01). There is no significant difference among the three text entry methods (F(2, 14) = 2.923, n.s.). The interaction effect between the two independent variables is not significant either (F(2, 14) = 0.759, n.s.).
 
 
 #### 3.4.1 One-way(one-factor) test Explaination
 
->![fig](./Pictures%20and%20Graphs/one-way_explaination.jpg "Explaination")
+![fig](./Pictures%20and%20Graphs/one-way_explaination.jpg "Explaination")
 
 
 #### 3.4.2 Two-way(Factorial tet) test Explaination
 
->![fig](./Pictures%20and%20Graphs/Two-way_explaination.jpg "Explaination")
+![fig](./Pictures%20and%20Graphs/Two-way_explaination.jpg "Explaination")
 
 
 
 #### 3.4.3 One-way repeated measures test Explanation
 
->![fig](./Pictures%20and%20Graphs/One-way_repeated_measures.jpg "Explaination")
+![fig](./Pictures%20and%20Graphs/One-way_repeated_measures.jpg "Explaination")
 
 
 
@@ -288,7 +288,7 @@ Unlike correlation analysis, which allows the study of **only two variables**, *
 
 In HCI-related studies, ***regression analysis*** is used for two main purposes: **<u>model construction and prediction</u>**. In cases of model construction, we are interested in identifying the quantitative relationship between one dependent variable and a number of independent variables. In cases of prediction, we are interested in using a number of known factors, also called “predictor variables,” to **predict the value of the dependent variable**, also called the “criterion variable”
 
->![fig](./Pictures%20and%20Graphs/Regression_analysis.jpg "Regression analysis")
+![fig](./Pictures%20and%20Graphs/Regression_analysis.jpg "Regression analysis")
 
 
     In this regression analysis, the dependent variable is the task completion time. The independent variables are age, computer experience (as represented by the number of years using computers), target size, and the distance between the current cursor location and the target.
@@ -300,7 +300,7 @@ In HCI-related studies, ***regression analysis*** is used for two main purposes:
 ### 3.7 Nonparametric statistical tests
 ---
 
-Although nonparametric tests are also called <u>"assumption-free" tests</u>, it should be noted that they are not actually free of assumptions. Nonparametric analysis sacrifices the power to use all available i tion to reject a false null hypothesis in exchange for less strict assumptions about the data.
+Although nonparametric tests are also called <u>"assumption-free" tests</u>, it should be noted that they are not actually free of assumptions. Nonparametric analysis sacrifices the power to use all available intention to reject a false null hypothesis in exchange for less strict assumptions about the data.
 
 
 #### 3.7.1 Chi-Ssquared test
@@ -312,7 +312,7 @@ The degree of freedom of a Chi-squared test is calculated by the following equat
 Degree of freedom = (Number of rows - 1) - 1 (Number of columns)
 
 
->![fig](./Pictures%20and%20Graphs/Chi-squared_frequency_counts.jpg "Chi-squared test")
+![fig](./Pictures%20and%20Graphs/Chi-squared_frequency_counts.jpg "Chi-squared test")
 
 
 
@@ -373,11 +373,11 @@ If a ***self-selected survey*** is used, then both **the number of survey respon
 
 **Open-ended questions** are useful in getting a better understanding of phenomena, because they give respondents complete flexibility in their answers. aside from the obvious drawback of more complex data analysis, **open-ended questions must be carefully worded**
 
->![fig](./Pictures%20and%20Graphs/Open-ended_questions1.jpg "question")
+![fig](./Pictures%20and%20Graphs/Open-ended_questions1.jpg "question")
 
 
 
->![fig](./Pictures%20and%20Graphs/Open-ended_questions2.jpg "question")
+![fig](./Pictures%20and%20Graphs/Open-ended_questions2.jpg "question")
 
 
 #### 4.3.2 Close-ended questions
@@ -388,7 +388,7 @@ There are two types of **closed-ended questions**:
 
 For instance, using a scale such as “excellent to poor” or “strongly agree to strongly disagree” would be an ordered response. ***Likert scale questions***, which often take the form of a scale of 1 to 5, 7, or 9, ask users to note where they fall on a scale of, for example, “strongly agree” to “strongly disagree.”
 
->![fig](./Pictures%20and%20Graphs/Closed-ended_questions.jpg "question")
+![fig](./Pictures%20and%20Graphs/Closed-ended_questions.jpg "question")
 
 
 #### 4.3.3 Problems with survey questions
