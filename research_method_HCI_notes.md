@@ -400,5 +400,9 @@ It is important to note that there are a number of common problems with survey q
 - Biased wording in questions
 - “Hot-button” words
 
+### 4.4 Data analysis
 
+* The goal of ***quantitative data analysis*** is simply to have a set of “**descriptive statistics**” that **simply describe the data collected in a manageable way**. 
+* No one but the researchers will read through every survey response so **the descriptive statistics are simply a short, high-level summary of the data**. Most often, descriptive statistics involve ***percentages, ratios, or matrices***. 
+* Inferential statistics involve a higher level of understanding of the data, by **understanding the relationships between variables** and **how they impact each other**.
 
