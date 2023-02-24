@@ -406,3 +406,35 @@ It is important to note that there are a number of common problems with survey q
 * No one but the researchers will read through every survey response so **the descriptive statistics are simply a short, high-level summary of the data**. Most often, descriptive statistics involve ***percentages, ratios, or matrices***. 
 * Inferential statistics involve a higher level of understanding of the data, by **understanding the relationships between variables** and **how they impact each other**.
 
+
+## 5. Measuring the human
+
+### 5.1 Eye Tracking
+---
+
+Generally, eye-tracking systems will use transform **raw data** regarding **gaze direction** into **a series of coordinates mapping direction** into **(x, y) coordinates** on the display being viewed.
+
+
+Eye movement patterns:
+
+- ***Saccades***: **last** anywhere from **10 to 100 ms**
+  - These movements are used to **reposition** the eyes to **a new viewpoint**
+  - **In anticipation of a new task** or **in response to some stimulus**
+- ***Fixation***: **focus on** a new area of interest.
+- ***Microsaccades***: essentially **random noise**
+- ***Smooth pursuits***: **Following a moving target** (as in a video game)
+
+
+How to **separate de-noised movemnts into *saccades* and *fixations***:
+- ***Dwell-time methods***: look for periods of little or no variance in eye position; **Low-variance intervals lasting for more than some minimal amount of time are classified as fixations**.
+- ***Velocity-based methods*** take the opposite approach, **classifying saccades as intervals when eye-movement velocity exceeds a given threshold**.
+
+
+The application of eye tracking:
+
+- If we can understand how users move their eyes when completing various interface tasks, we might **gain some insight** into **where attention is focused** and **how choices are made**.
+- Eye tracking can also be a vitally useful tool for **understanding complex and cognitively challenging workflows** and tasks
+  - ***Measuring workload***: **Workload is the effort associated with completing a task**.
+    - One possible approach involves the use of eye-gaze tracking to **measure pupil diameter**, which has been shown to increase with stress or frustration;
+    - Relevant content has been associated with **larger pupil dilation** than less relevant content, indicating that **more mental effort** is involved when content is pertinent.
+    - **Larger pupil dilation, more mental effort (more workload)**
