@@ -455,6 +455,9 @@ Motion and position-sensing devices have many potential applications in HCI rese
 ***Psychophysiology*** brings the possibility of **using concrete measurements of the state of the human body** to **accompany assessments captured through surveys or observations**.
 
 
+The **retrospective nature** of **questionnaires** means that you are relying on the **participants' fallible** and **incomplete memories** to get your results.
+
+
 ![fig](./Pictures%20and%20Graphs/physiological_data.jpg "physiological data")
 
 
