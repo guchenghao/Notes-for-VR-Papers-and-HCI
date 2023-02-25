@@ -438,3 +438,26 @@ The application of eye tracking:
     - One possible approach involves the use of eye-gaze tracking to **measure pupil diameter**, which has been shown to increase with stress or frustration;
     - Relevant content has been associated with **larger pupil dilation** than less relevant content, indicating that **more mental effort** is involved when content is pertinent.
     - **Larger pupil dilation, more mental effort (more workload)**
+  
+
+### 5.2 Motion and position tracking
+
+Movements of our hands, arms, heads, torsos, and even legs and feet can be measured by multiple types of sensors, **providing useful opportunities for studying and changing how we interact with computers**.
+
+- Collecting data that will help understand patterns of motion—where do users move, how do they move, and when do they do it?
+
+Motion and position-sensing devices have many potential applications in HCI research, from **assessing everyday activity such as posture**, to **studying activity while using a system**, to **forming the basis for new input modalities**.
+
+
+
+### 5.3 Physiological tools
+
+***Psychophysiology*** brings the possibility of **using concrete measurements of the state of the human body** to **accompany assessments captured through surveys or observations**.
+
+
+![fig](./Pictures%20and%20Graphs/physiological_data.jpg "physiological data")
+
+
+
+### 5.4 Data collection, Analysis, and Interpretation
+
