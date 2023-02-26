@@ -442,6 +442,8 @@ The application of eye tracking:
 
 ### 5.2 Motion and position tracking
 
+---
+
 Movements of our hands, arms, heads, torsos, and even legs and feet can be measured by multiple types of sensors, **providing useful opportunities for studying and changing how we interact with computers**.
 
 - Collecting data that will help understand patterns of motion—where do users move, how do they move, and when do they do it?
@@ -451,7 +453,7 @@ Motion and position-sensing devices have many potential applications in HCI rese
 
 
 ### 5.3 Physiological tools
-
+---
 ***Psychophysiology*** brings the possibility of **using concrete measurements of the state of the human body** to **accompany assessments captured through surveys or observations**.
 
 
@@ -462,5 +464,49 @@ The **retrospective nature** of **questionnaires** means that you are relying on
 
 
 
-### 5.4 Data collection, Analysis, and Interpretation
+### 5.4 Data Collection, Analysis, and Interpretation
+---
 
+
+Studies measuring human activity will generally follow the same set of steps as any other study: 
+1. Designing, configuring, and testing data collection approaches; 
+2. Analyzing captured data; 
+3. Interpreting the results.
+
+![fig](./Pictures%20and%20Graphs/Measuring_strcuture.jpg "Measuring Structure")
+
+#### 5.4.1 Data Collection
+
+As these approaches are relatively new and the technology is rapidly evolving, ***off-the-shelf tools*** with clear guidance may be few and far between. You may need to **familiarize yourself with the pros and cons of a variety of sensors** before conducting this sort of work.
+
+Applying prosaic restrictions:
+
+- **Eye-tracking devices** might require that users be seated within an optimal distance range from the monitor
+- **Wired sensors** might have limited ranges
+- **External distractions** must be controlled to **minimize confounding stimuli** that might distract users and add unwanted cognitive load
+
+
+if you know that the variability in a user's heart rate increased at a certain point in time, **you won't be able to interpret that change unless you know what the user was doing at the time**.
+
+#### 5.4.2 Analysis
+
+Like other naturally occurring signals, **eye-tracking data, motion detection systems, and physiological measurements are all very noisy**, containing artifacts and variability that can make interpretation difficult.
+
+
+**Eye-tracking and motion detection systems** face similar challenges in **distinguishing between intentional actions** including <u>saccades, pursuits, and fixations and seemingly random noise (microsaccades)</u>
+
+
+Appropriate use of tools and validated approaches can simplify matters somewhat.
+
+
+#### 5.4.3 Interpretation
+
+
+One initial possibility is **manual review**. Particularly in earlier stages of i pretation, looking at the signals to find examples of any anomalies, episodes of interactions that might be informative.
+
+Identification of specific items or actions is often **a first step**.
+
+**Data granularity** can also influence analysis and interpretation.
+
+
+**A final interpretive challenge** lies in the difficulty of understanding physiological signals. Even if you have a clear difference in some measure that seems to come in response to a specific event, **interpreting that measure may prove challenging**.
