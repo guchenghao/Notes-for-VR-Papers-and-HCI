@@ -7,7 +7,10 @@
 
 
 * The basic idea here is to require learners to rate the written contributions in an online discussion on one or more dimensions. The tool itself performs the functions of a): taking the learner ratings as input; b): aggregating and/or transforming these inputs; and c): visualizing and feeding back transformed contextual variables as graphical output to the group.
-  * Jürgen Buder and Daniel Bodemer. 2007. Supporting controversial CSCL discussions with augmented group awareness tools. In Proceedings of the 8th international conference on Computer supported collaborative learning (CSCL'07). International Society of the Learning Sciences, 93–101.
+  * Jürgen Buder and Daniel Bodemer. 2007. Supporting controversial CSCL discussions with **augmented group awareness tools**. In Proceedings of the 8th international conference on Computer supported collaborative learning (CSCL'07). International Society of the Learning Sciences, 93–101.
+
+
+
 
 
 
