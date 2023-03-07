@@ -13,5 +13,17 @@
 
 
 
+* On the other hand, **online collaborative tools have proved to contribute to interaction between group members and to sustain emotional support**. Consequently, in order to model cognitive presence, social presence and teaching presence during CSCL it is necessary to promote a fluent and satisfactory interaction, rooted on the learning process and on emotional support as well as on effective management of the online tools facilitating collaboration.
+  * Nuria Hernández-Sellés,  Pablo-César Muñoz-Carril, Mercedes González-Sanmamed, Computer-supported collaborative learning: An analysis of the relationship between interaction, emotional support and online collaborative tools, Computers & Education,Volume 138, 2019, Pages 1-12, ISSN 0360-1315, https://doi.org/10.1016/j.compedu.2019.04.012.
+
+
+
+
+
+* Although the various visual based group conversation support system have been proposed to increase the passive participant's utterance, these visually presentation of support information is disturbing the group communication by attracting participants' gaze attention. In this research, we proposed an audio based support system which focuses on an attentional behavior. **Our system gives a passive participant a chance to take next speaking turn by leading a mutual gaze with a current speaker with providing audio stimuli to them**. 
+  * Rurika Shimizu, Yutaka Takase, and Yukiko I Nakano. 2017. Audio based group conversation support system. In Proceedings of the 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2017 ACM International Symposium on Wearable Computers (UbiComp '17). Association for Computing Machinery, New York, NY, USA, 197–200. https://doi.org/10.1145/3123024.3123079
+
+
+
 
 
