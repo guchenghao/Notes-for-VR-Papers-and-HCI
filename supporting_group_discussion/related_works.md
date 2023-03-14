@@ -33,4 +33,5 @@
   * Tae Soo Kim, Nitesh Goyal, Jeongyeon Kim, Juho Kim, and Sungsoo Ray Hong. 2021. Supporting Collaborative Sequencing of Small Groups through **Visual Awareness**. Proc. ACM Hum.-Comput. Interact. 5, **CSCW1**, Article 176 (April 2021), 29 pages. https://doi.org/10.1145/3449250
 
 
-* 
+* **Another example of how group awareness tools** can be embedded in CSCL environments to give feedback to group members comes from the work of Zumbach and colleagues (Zumbach et al., 2004, Zumbach and Reimann, 2003). The environment tracks group members’ activity and feeds this back to the users in a pie chart. In sum, these group awareness tools provide group members with feedback on **how well they are collaborating** (i.e., are group members participating equally in the collaborative process?). In their studies Zumbach et al. showed that their group awareness tool positively affected students’ learning process, group performance, and motivation.（利用group awareness tools给予小组成员反馈可以增进他们的团队合作表现）
+  * Jeroen Janssen, Gijsbert Erkens, Paul A. Kirschner, Group awareness tools: It’s what you do with it that matters, Computers in Human Behavior, Volume 27, Issue 3, 2011, Pages 1046-1058, ISSN 0747-5632, https://doi.org/10.1016/j.chb.2010.06.002.
