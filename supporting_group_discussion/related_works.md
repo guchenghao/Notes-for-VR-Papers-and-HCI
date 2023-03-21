@@ -9,7 +9,7 @@
 
 ## Supporting controversial CSCL discussions with augmented group awareness tools
 
-* The basic idea here is to require learners to rate the written contributions in an online discussion on one or more dimensions. The tool itself performs the functions of a): taking the learner ratings as input; b): aggregating and/or transforming these inputs; and c): visualizing and feeding back transformed contextual variables as graphical output to the group.
+* The **basic idea** here is to require learners to rate the written contributions in an online discussion on one or more dimensions. The tool itself performs the functions of a): taking the learner ratings as input; b): aggregating and/or transforming these inputs; and c): visualizing and feeding back transformed contextual variables as graphical output to the group.
   * Jürgen Buder and Daniel Bodemer. 2007. Supporting controversial CSCL discussions with **augmented group awareness tools**. In Proceedings of the 8th international conference on Computer supported collaborative learning (**CSCL'07**). International Society of the Learning Sciences, 93–101.
 
 
@@ -32,8 +32,11 @@
 
 
 * findings in CSCW, HCI, and Information Visualization (InfoVis) communities show that visually externalizing group members’ preferences and actions in group work, such as collaborative data analysis and collaborative information-seeking, could lead to better outcomes.
+  
 * Goyal and Fussell provided **visual awareness**, in the form of sensemaking translucence, to allow group members track their whole group’s activities during collaborative analysis.
+  
 * This **visual awareness** approach has also been adopted to support consensus building by visualizing opinions in groups.
+  
   * Tae Soo Kim, Nitesh Goyal, Jeongyeon Kim, Juho Kim, and Sungsoo Ray Hong. 2021. Supporting Collaborative Sequencing of Small Groups through **Visual Awareness**. Proc. ACM Hum.-Comput. Interact. 5, **CSCW1**, Article 176 (April 2021), 29 pages. https://doi.org/10.1145/3449250
 
 
@@ -48,4 +51,24 @@
 ## Investigation of Small Group Social Interactions Using Deep Visual Activity-Based Nonverbal Features
 
 * It is well known that, visual activity (VisualAct) is an important cue to identify social interactions in small groups [13, 47, 62]. The most prominent way to represent VisualAct were in terms of head activity (**head motion**) e.g. in [2, 5, 6, 39, 45, 54], body activity (**body motion**).
+
   * Cigdem Beyan, Muhammad Shahid, and Vittorio Murino. 2018. Investigation of Small Group Social Interactions Using Deep Visual Activity-Based Nonverbal Features. In Proceedings of the 26th ACM international conference on Multimedia (MM '18). Association for Computing Machinery, New York, NY, USA, 311–319. https://doi.org/10.1145/3240508.3240685
+
+
+
+## Unobtrusive Analysis of Group Interactions without Cameras
+
+* Factors including “group-think”, **fear of speaking**, unfocused discussion, and bias can affect the performance of a group meeting
+  
+* In order to actively or passively facilitate group meetings, automatically analyzing group interaction patterns is critical.
+
+* manually coding such nonverbal behavior like location, gaze, gestures, head and body movements, posture, speaker segmentation, interruptions and so on, is **cumbersome, time-consuming and subjective**
+
+* While the system provides valuable information, the array of cords, memory cards, and external PCs is not really compact and the position of the sensors in the lines of sights of participants may **appear obtrusive to the participants**.
+
+  * Indrani Bhattacharya. 2018. Unobtrusive Analysis of Group Interactions without Cameras. In Proceedings of the 20th ACM International Conference on Multimodal Interaction (ICMI '18). Association for Computing Machinery, New York, NY, USA, 501–505. https://doi.org/10.1145/3242969.3264973
+
+
+
+
+##
