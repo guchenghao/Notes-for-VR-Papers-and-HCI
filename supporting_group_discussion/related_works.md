@@ -71,4 +71,15 @@
 
 
 
-##
+## Using the Influence Model to Recognize Functional Roles in Meetings
+
+
+* In order to improve performance of meetings, external interventions by experts such as facilitators and trainers are commonly employed. Facilitators participate in the meetings as external elements of the group and their role is to help participants maintaining a fair and focused behavior as well as directing and setting the pace of the discussion.
+
+* by abstracting over low level (visual, acoustic, etc.) information to produce medium-/coarse-grained one about the social/relational roles members play in the group. The latter is the kind of information that most coaches and group facilitators (implicitly or explicitly) use while doing their job.
+
+* The ***Task Area functional roles*** consist or: the **Orienteer** (o)—she orients the group by introducing the agenda, defining goals and procedures, keeping the group focused and on track and summarizing the most important arguments and the group decisions. The **Giver** (g): she provides factual information and answers to questions, states her beliefs and attitudes about an idea, expresses personal values and factual information. The **Seeker** (s), who requests information, as well as clarifications, to promote effective group decisions. The **Procedural Technician** (pt); she uses the resources available to the group, managing them for the sake of the group. The **follower** (f), who just listens, without actively participating in the interaction.
+
+* The ***Socio-Emotional functional roles***: the **Attacker** (a); she deflates the status of others, expresses disapproval, and attacks the group or the problem. The **Gate-keeper** (gk), who is the group moderator, mediates the communicative relations, encourages and facilitates the participation and regulates the flow of communication. The **Protagonist** (p); she takes the floor, driving the conversation, assuming a personal perspective and asserting her authority. The **Supporter** (su), who shows a cooperative attitude demonstrating understanding, attention and acceptance as well as providing technical and relational support. The **Neutral Role** (n), played by those who passively accept the ideas of the others, serving as an audience in group discussion
+
+  * Wen Dong, Bruno Lepri, Alessandro Cappelletti, Alex Sandy Pentland, Fabio Pianesi, and Massimo Zancanaro. 2007. Using the influence model to recognize functional roles in meetings. In Proceedings of the 9th international conference on Multimodal interfaces (ICMI '07). Association for Computing Machinery, New York, NY, USA, 271–278. https://doi.org/10.1145/1322192.1322239
