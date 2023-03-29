@@ -20,6 +20,10 @@
   * The study is based on the Experiential Learning Theory to modify the PBL method to include the active experimentation stage, which is believed to enhance learning outcomes.
 * b. Article's technical route (step by step)
   * A quasi-experiment was designed and conducted in three software engineering courses at an undergraduate level, in Rio Branco-Acre/Brazil. The courses were taught by the same teacher, with one class using the standard PBL method as the control group and two classes using a modified PBL method that incorporated the Experiential Learning Theory as treatment groups. The problem-solving activities were carried out in accordance with the PBL process, with the control group following the standard PBL process and the treatment groups modifying the PBL process to include the active experimentation stage. Data was collected through surveys taken by the students, which evaluated their motivation, experience, and learning outcomes. The data collected was analyzed using statistical methods.
+
+![table](../Pictures%20and%20Graphs/self_perception_questionnaire.jpg "questionnaire")
+
+
 # Conclusion:
 * a. Work significance
   * The paper investigates the use of the Experiential Learning Theory to modify the PBL method in software engineering education, which is significant in improving learning outcomes among students.
