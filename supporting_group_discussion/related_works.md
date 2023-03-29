@@ -98,5 +98,14 @@
 
 * On the face of it, these little pairings, these dialogic units, these two-part exchanges, recommend a linguistic mode of analysis of a formalistic sort. Admittedly, the meaning of an utterance, whether question or answer, can ultimately depend in part on the specific semantic value of the words it contains and thus (in the opinion of some linguists) escape complete formalization. Nonetheless, a formalism is involved. The constraining influence of the question-answer format is somewhat independent of what is being talked about, and whether, for example, the matter is of great moment to those involved in the exchange or of no moment at all. Moreover, each participating utterance is constrained by the rules of sentence grammar, even though, as will be shown, inferences regarding underlying forms may be required to appreciate this.
 
-## 
+  * Goffman E. Forms of talk[M]. University of Pennsylvania Press, 1981.
 
+
+
+## Exploring group awareness in a mixed reality collaborative environment
+
+* Using immersive mixed reality environments can reduce presence disparity for remote collaborators and enhance awareness of action and intent and grounding and coordination with co-located collaborators.
+
+* Mixed reality collaboration is becoming more common in domains such as healthcare, government, education and sports. Using virtual worlds or mixed reality can **give a sense of co-presence** during mixed-presence collaborations.
+
+  * Mohamad H. Salimian. 2015. Exploring group awareness in a mixed reality collaborative environment. In Adjunct Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2015 ACM International Symposium on Wearable Computers (UbiComp/ISWC'15 Adjunct). Association for Computing Machinery, New York, NY, USA, 495–501. https://doi.org/10.1145/2800835.2801654
