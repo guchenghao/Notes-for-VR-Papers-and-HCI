@@ -92,4 +92,11 @@
 
 * We can as handily quote another (directly or indirectly) as we can say something in our own name. (This embedding capacity is part of something more general: our linguistic ability to speak of events at any remove in time and space from the situated present.)
 
-* 
+* Whenever persons talk there are very likely to be questions and answers. These utterances are realized at different points in "sequence time." Notwithstanding the content of their questions, questioners are .oriented to what lies just ahead, and depend on what is to come; answerers are oriented to what has just been said, and look backward, not forward. Observe that although a question anticipates an answer, is designed to receive it, seems dependent on doing so, an answer seems even more dependent, making less sense alone than does the utterance that called it forth. Whatever answers do, they must do this with something already begun.
+
+* In questions and answers we have one example, perhaps the canonical one, of what Harvey Sacks has called a "first pair part" and a "second pair part," that is, a couplet, a minimal dialogic unit, a round two utterances long, each utterance of the same "type," each spoken by a different person, one utterance temporally following directly on the other; in sum, an example of an "adjacency pair." The first pair part establishes a "conditional relevance" upon anything that occurs in the slot that follows; whatever comes to be said there will be inspected to see how it might serve as an answer, and if nothing is said, then the resulting silence will be taken as notable-a rejoinder in its own right, a silence to be heard (Sacks 1973).
+
+* On the face of it, these little pairings, these dialogic units, these two-part exchanges, recommend a linguistic mode of analysis of a formalistic sort. Admittedly, the meaning of an utterance, whether question or answer, can ultimately depend in part on the specific semantic value of the words it contains and thus (in the opinion of some linguists) escape complete formalization. Nonetheless, a formalism is involved. The constraining influence of the question-answer format is somewhat independent of what is being talked about, and whether, for example, the matter is of great moment to those involved in the exchange or of no moment at all. Moreover, each participating utterance is constrained by the rules of sentence grammar, even though, as will be shown, inferences regarding underlying forms may be required to appreciate this.
+
+## 
+
