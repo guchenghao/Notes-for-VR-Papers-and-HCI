@@ -83,3 +83,13 @@
 * The ***Socio-Emotional functional roles***: the **Attacker** (a); she deflates the status of others, expresses disapproval, and attacks the group or the problem. The **Gate-keeper** (gk), who is the group moderator, mediates the communicative relations, encourages and facilitates the participation and regulates the flow of communication. The **Protagonist** (p); she takes the floor, driving the conversation, assuming a personal perspective and asserting her authority. The **Supporter** (su), who shows a cooperative attitude demonstrating understanding, attention and acceptance as well as providing technical and relational support. The **Neutral Role** (n), played by those who passively accept the ideas of the others, serving as an audience in group discussion
 
   * Wen Dong, Bruno Lepri, Alessandro Cappelletti, Alex Sandy Pentland, Fabio Pianesi, and Massimo Zancanaro. 2007. Using the influence model to recognize functional roles in meetings. In Proceedings of the 9th international conference on Multimodal interfaces (ICMI '07). Association for Computing Machinery, New York, NY, USA, 271–278. https://doi.org/10.1145/1322192.1322239
+
+
+
+## Forms of talk
+
+* When a word is spoken, all those who happen to be in perceptual range of the event will have some sort of participation status relative to it.
+
+* We can as handily quote another (directly or indirectly) as we can say something in our own name. (This embedding capacity is part of something more general: our linguistic ability to speak of events at any remove in time and space from the situated present.)
+
+* 
