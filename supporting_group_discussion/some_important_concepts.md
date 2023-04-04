@@ -17,4 +17,48 @@ The **Big Five personality traits**, also known as the **Five-Factor Model (FFM)
 
 
 
-## 2. 
+## 2. PBL&TBL
+
+### 2.1 TBL
+
+***Team-Based Learning***: a form of collaborative learning that consists of (A) **Strategically-formed, permanent teams**, (B) **Readiness assurance**, (C) **Application activities**, and (D) **Peer evaluations**.
+
+
+
+* **(B) Readiness assurance: The Readiness assurance process is followed by a clarifying lecture**
+    1. Pre-reading by students outside of class;
+    2. **Individual readiness assessment test** (iRAT) $\rightarrow$ **short, basic, multiple-choice test** over the preparation materials;
+    3. **Team readiness assessment test** (tRAT) $\rightarrow$ once they turn in their individual tests, students then take the exact same test again, and must come to consensus on their team answers;
+    4. **Appeals** - When teams feel they can still make a case for their answers which were marked as incorrect, they can pull out their course materials and generate written appeals.
+
+
+* **(C) Application activities: carefully-designed activities**
+    1. address a **significant problem** that demonstrates a concepts usefulness
+    2. make a **Specific choice** among clear alternatives
+    3. work on the Same problem as other teams
+    4. report their decisions Simultaneously, so differences among teams can be explored for the most instructional effect
+
+
+![The Structure of TBL](../Pictures%20and%20Graphs/TBL_Structure.png)
+
+
+
+**Main features of TBL:**
+
+* Emphasizes **APPLICATION of teacher- specified knowledge** to address real world problems In autonomous teams;
+* Students benefit from immediate feedback about their teams` solutions
+
+
+
+
+### 2.2 PBL
+
+**Instructional Method**
+* Tutors progressively disclose Information in cases. Learners analyze material, address knowledge deficiencies, study between sessions and come prepared to apply new knowledge to tutor led discussions
+
+
+
+
+**Main features of PBL:**
+* Student directed learning stimulated by challenge of solving real world problems in tutor led groups
+* Learners benefit from opportunity to solve these problems
