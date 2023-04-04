@@ -84,7 +84,7 @@ solving problems.
 
 3. **Stimulate students’ interest in learning thinking skill and problem-solving ability**.
 
-Morales-Mann (2001)[9] proposes that problem-based, groupbased learning and discussion can significantly improve students’ability to analyze and solve problems in the learning process of basic and clinical knowledge.
+Morales-Mann (2001) proposes that problem-based, groupbased learning and discussion can significantly improve students’ability to analyze and solve problems in the learning process of basic and clinical knowledge.
 
 
 
@@ -99,4 +99,4 @@ Most students like this learning model of mutual cooperation, but **there are al
 
 In fact, PBL teaching mode has advantages and disadvantages. When implementing this educational model, it is necessary to pay attention to strengths or weaknesses, which will achieve better results.
 
-
+   * Yung-Ling Tseng, Yann-Long Lee, Chuan-Po Wang, and Ruey-Tsuen Chang. 2020. Empirical Research on PBL Teaching Method of Design Innovation Curriculum. In Proceedings of the 2019 2nd International Conference on Education Technology Management (ICETM 2019). Association for Computing Machinery, New York, NY, USA, 3–7. https://doi.org/10.1145/3375900.3375902
