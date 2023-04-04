@@ -62,3 +62,41 @@ The **Big Five personality traits**, also known as the **Five-Factor Model (FFM)
 **Main features of PBL:**
 * Student directed learning stimulated by challenge of solving real world problems in tutor led groups
 * Learners benefit from opportunity to solve these problems
+
+
+
+### 2.3 Comparison advs. vs disadvs of PBL Methods
+
+
+Compared with **traditional cramming education**, the advantages of
+PBL teaching method are as follows:
+
+
+1. **Students' learning is more exploratory and initiative**.
+
+The PBL teaching method is based on students and questions. Students can obtain solutions and answers to problems through discussion and data review. It makes student’s learning change from passive to active, from blind to purposeful to active
+exploration and searches for the answer.
+
+2. **Students are learning how to ask questions and more participatory**.
+
+Through the exploration and solution of individual problems, students not only gain knowledge but also learn to understand the ideas. At the same time, the exploration of solving problems became the model of discovering problems, asking questions and
+solving problems.
+
+3. **Stimulate students’ interest in learning thinking skill and problem-solving ability**.
+
+Morales-Mann (2001)[9] proposes that problem-based, groupbased learning and discussion can significantly improve students’ability to analyze and solve problems in the learning process of basic and clinical knowledge.
+
+
+
+Most students like this learning model of mutual cooperation, but **there are also some problems**. These problems are organized as follows:
+1. Insufficient of teacher supervision.
+2. Difficulty in the combination between the members.
+3. Student’s leadership is not enough.
+4. Individual students’ cooperating is not enough.
+5. Poor communication between some students.
+6. The evaluating method of the project is not diversified.
+
+
+In fact, PBL teaching mode has advantages and disadvantages. When implementing this educational model, it is necessary to pay attention to strengths or weaknesses, which will achieve better results.
+
+
