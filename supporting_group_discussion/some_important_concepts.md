@@ -90,7 +90,7 @@ Morales-Mann (2001) proposes that problem-based, groupbased learning and discuss
 
 Most students like this learning model of mutual cooperation, but **there are also some problems**. These problems are organized as follows:
 1. **Insufficient of teacher supervision**.
-2. Difficulty in the combination between the members.
+2. **Difficulty in the combination** between the members.
 3. Student’s **leadership** is not enough.
 4. Individual students’ **cooperating is not enough**.
 5. **Poor communication** between some students.
