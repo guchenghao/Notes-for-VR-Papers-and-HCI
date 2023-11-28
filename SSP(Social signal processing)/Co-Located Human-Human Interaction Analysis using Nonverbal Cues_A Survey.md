@@ -149,7 +149,6 @@ The automatic recognition of these traits was repeatedly performed with <u>**spe
 
 * **VFOA features** were <u>good at predicting extraversion and neuroticism</u> while the head pose errors had more impact on extraversion detection in cocktail partyscenarios.
 
-
 There is no doubt that **multimodal (e.g., acoustic and vision) approaches** dominate this research line due to their remarkably better performance than **unimodal methods**.
 
 #### Hirability
