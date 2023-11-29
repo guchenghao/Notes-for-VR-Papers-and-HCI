@@ -144,7 +144,7 @@ The automatic recognition of these traits was repeatedly performed with <u>**spe
 * **Extraversion** was <u>the best-recognized personality quality</u> which was detected by using **vocal behavioral cues** (such as pitch) and **VFOA**.
 
 * **Openness** was <u>the second best-recognized quality</u>, and the corresponding result was obtained when the speech energy derivative was used.
-  
+
 * **Non-linguistic features** (<u>prosody, speech activity, overlaps, and interruptions</u>) could outperform **linguistic features** (<u>words n-gram and dialog acts</u>) for the prediction of high/low extraversion, consciousness, and neuroticism traits.
 
 * **VFOA features** were <u>good at predicting extraversion and neuroticism</u> while the head pose errors had more impact on extraversion detection in cocktail partyscenarios.
@@ -154,13 +154,68 @@ There is no doubt that **multimodal (e.g., acoustic and vision) approaches** dom
 #### Hirability
 
 * **Multimodal nonverbal cues perform better** than unimodal audio cues (speaking activity, prosody) or unimodal video-basedfeatures (VFOA, head, and body activities).
-  
+
 * The most predictive ones are **the applicant's audio cues** and **the interviewer's visual cues**. This shows that the interviewer-produced responses could condition the behavior of the job applicant, i.e.,by displaying visual back-channels.
-  
+
 * **The higher speaking turn duration and head nods** are positively correlated to higher ratings for hirability, competence, sociability, persuasiveness, clearness, and positiveness while **verbal content is less important**.
 
-### Social roles or relations
+### Social roles and relations
 
+#### Roles
+
+Socio-emotional roles:
+
+1. **Protagonist**: a person who takes the floor, leads the conversation, and asserts his/her authority
+
+2. **Supporter**: a person who is cooperative, shows attention and acceptance while providing support
+
+3. **Neutral**:  a person who does not express his/her ideas and accepts others' ideas
+
+4. **Gatekeeper**:  the moderator who encourages the communication between the group members
+
+5. **Attacker**:  a person who does not agree with others' ideas, does not respect the status of others and attacks other speaker
+
+#### Social Relations
+
+* **Automated detection of social relations** was majorly addressed based on **computer vision** techniques.
+
+* The **used sensors** are different types of cameras and some of them **recorded the audio** too.
+
+* The datasets composed of **movies** or **YouTube videos** were used for the validation of the proposed methods.
+
+![SSP_papers3](<../Pictures and Graphs/Social_role_and_relations.png>)
 
 ### Interaction Dynamics
+
+#### Group Conversational Context
+
+
+
+#### Engagement, Involvement and Interest Level
+
+
+
+#### Group Performance
+
+
+
+#### Group Satisfaction
+
+
+
+#### Quality of Interactions
+
+
+
+#### Group Cohesion
+
+
+
+#### Vocal Entrainment
+
+
+
+#### Rapport and Empathy
+
+
 
