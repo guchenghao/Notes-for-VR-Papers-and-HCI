@@ -187,6 +187,10 @@ Socio-emotional roles:
 
 ### Interaction Dynamics
 
+
+
+![SSP_papers4](<../Pictures and Graphs/Interaction_analysis.png>)
+
 #### Group Conversational Context
 
 
