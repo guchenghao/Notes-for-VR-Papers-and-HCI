@@ -187,19 +187,40 @@ Socio-emotional roles:
 
 ### Interaction Dynamics
 
-
-
 ![SSP_papers4](<../Pictures and Graphs/Interaction_analysis.png>)
 
 #### Group Conversational Context
 
+The types of context are:
 
+* brainstorming vs. decision-making
+* formal vs. informal
+* focused vs. unfocused
+* scenario vs. non-scenario
+
+it is **noticeable** that:
+
+* Every study utilized the **speaking activity** as a cue
+* Three of four works applied **SVM** for prediction
+* Three of four works used **wearable sensors**
+
+The **speaking activity** was quantified in terms of:
+
+* participant’s **involvement**
+* the cycles of high/low activity
+* **interruptions** to discriminate scenario and non-scenario meetings with **parallel episodes**
 
 #### Engagement, Involvement and Interest Level
 
+* Overall, **visual cues** performed better than acoustic features
 
+* acoustic features in some cases were preferable to **lexical features**
+
+* **gaze activity and body motion** were among the **most effective cues** to detect the phenomena of **interest**
 
 #### Group Performance
+
+**Automatic detection of group performance** is a task investigated mostly in small groups (3–4 people) in which **people make a decision regarding a (pre-defined) task**. That topic is important since <u>**an intelligent detection system can provide information aimed at enhancing the performance and efficiency of a group and its members**</u>.
 
 
 
