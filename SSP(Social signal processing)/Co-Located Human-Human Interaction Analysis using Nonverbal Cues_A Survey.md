@@ -1,3 +1,10 @@
+# Paper Link
+
+---
+TIME: 2023/11 ACM Computing Surveys
+
+[Co-Located Human-Human Interaction Analysis using Nonverbal Cues: A Survey](https://doi.org/10.1145/3626516)
+
 # A survey of SSP
 
 ## HAR (Human activity recoginition)
@@ -221,7 +228,6 @@ The **speaking activity** was quantified in terms of:
 #### Group Performance
 
 **Automatic detection of group performance** is a task investigated mostly in small groups (3–4 people) in which **people make a decision regarding a (pre-defined) task**. That topic is important since <u>**an intelligent detection system can provide information aimed at enhancing the performance and efficiency of a group and its members**</u>.
-
 
 
 #### Group Satisfaction
