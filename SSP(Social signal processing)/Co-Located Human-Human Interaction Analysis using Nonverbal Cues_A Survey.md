@@ -232,21 +232,38 @@ The **speaking activity** was quantified in terms of:
 
 #### Group Satisfaction
 
+* Estimating group satisfaction automatically is crucial for developing strategies for **computer-aided decision-making** and **human–robot interaction** while also being important to understanding the cognitive state of individuals.
 
+* This topic (at least after 2010) has not been studied much within co-located human–human social interaction analysis.
 
 #### Quality of Interactions
 
+* There exist studies that addressed the automated estimation of the quality of co-located human–human social interactions using **physiological signals**.
+  
+* It is well-known that **physiological activity** is correlated with **nonverbal behaviors** and vice versa.
 
+* The related literature <u>lacks</u> the use of **acoustic features**, **multimodal cues**, and **deep models** while all these options have the potential to boost the **detection performance**.
 
 #### Group Cohesion
 
+* all works included **acoustic feature**s, implying that they are effective for such an automated task.
 
+* The performance could further be boosted by **the integration of head and body movement cues**.
 
 #### Vocal Entrainment
 
+**Vocal entrainment** is the phenomenon in which the interactants show **a synchronization of speaking style** during their conversation.
 
+* The experiments in all studies <u>were limited to</u> a single dataset targeting a very specific scenario: **married couples' interactions**.
 
 #### Rapport and Empathy
 
+* Empathy is an important skill in developing rapport with a person
 
+* It means **close and harmonious relationships** where the interaction patterns are **synchronized** while attention, positivity, and coordination are necessary
 
+* Rapport is a **complex social behavior**, and low rapport can result in **interpersonal conflicts** and **decreased collaboration**
+
+* prosody, speaking, head, and body activities are competent for rapport and empathy detection.
+
+* Future research can consider applying **audio-visual deep learning** methods.
