@@ -15,7 +15,7 @@ A **major limitation** is that HAR approaches do not consider the social context
 
 SSP research integrates **social psychology** concepts into **Artificial Intelligence** (AI) and focuses on automatic detection, interpretation, and synthesis of social signals, nonverbal behavioral cues (e.g.,gestures, eye gaze, body posture, vocal characteristics, interpersonal distances, facial expressions) capable to convey socially-relevant information.
 
-![Inference of varios social and psychological phenomena](../Pictures%20and%20Graphs/the%20inference%20of%20various%20social%20and%20psychological%20phenomena.png)
+![Inference of various social and psychological phenomena](../Pictures%20and%20Graphs/the%20inference%20of%20various%20social%20and%20psychological%20phenomena.png)
 
 ## Non-verbal cues
 
