@@ -9,11 +9,11 @@ TIME: 2023/11 ACM Computing Surveys
 
 ## HAR (Human activity recognition)
 
-A **major limitation** is that HAR approaches do not consider the social context in which humans perform actions and therefore they do not understand what such actions mean. For example, a HAR approach canunderstand that a person touches his/her own face by reasoning on the spatial relation between hands, face, andbody parts.
+A **major limitation** is that HAR approaches do not consider the social context in which humans perform actions and therefore they do not understand what such actions mean. For example, a HAR approach can understand that a person touches his/her own face by reasoning on the spatial relation between hands, face, and body parts.
 
 ## Concepts of SSP
 
-SSP research integrates **social psychology** concepts into **Artificial Intelligence** (AI) and focuses on automatic detection, interpretation, and synthesis of social signals, nonverbal behavioral cues (e.g.,gestures, eye gaze, body posture, vocal characteristics, interpersonal distances, facial expressions) capable to conveysocially-relevant information.
+SSP research integrates **social psychology** concepts into **Artificial Intelligence** (AI) and focuses on automatic detection, interpretation, and synthesis of social signals, nonverbal behavioral cues (e.g.,gestures, eye gaze, body posture, vocal characteristics, interpersonal distances, facial expressions) capable to convey socially-relevant information.
 
 ![Inference of varios social and psychological phenomena](../Pictures%20and%20Graphs/the%20inference%20of%20various%20social%20and%20psychological%20phenomena.png)
 
@@ -21,7 +21,7 @@ SSP research integrates **social psychology** concepts into **Artificial Intelli
 
 ### Vocal behavior
 
-Such behavior corresponds to everything in speech except words, including the use of vocalizations (e.g., fillers, laughter, and sobbing), pauses, and turn-taking. **Speaking activity** and **prosody** are thetwo aspects of vocal behavior that are most commonly used in the literature.
+Such behavior corresponds to everything in speech except words, including the use of vocalizations (e.g., fillers, laughter, and sobbing), pauses, and turn-taking. **Speaking activity** and **prosody** are the two aspects of vocal behavior that are most commonly used in the literature.
 
 ### Speaking activity
 
