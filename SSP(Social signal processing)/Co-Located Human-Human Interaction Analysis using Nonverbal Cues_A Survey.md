@@ -7,7 +7,7 @@ TIME: 2023/11 ACM Computing Surveys
 
 # A survey of SSP
 
-## HAR (Human activity recoginition)
+## HAR (Human activity recognition)
 
 A **major limitation** is that HAR approaches do not consider the social context in which humans perform actions and therefore they do not understand what such actions mean. For example, a HAR approach canunderstand that a person touches his/her own face by reasoning on the spatial relation between hands, face, andbody parts.
 
@@ -25,11 +25,11 @@ Such behavior corresponds to everything in speech except words, including the us
 
 ### Speaking activity
 
-The most common form of speaking activity detection is referred to as **speaker diarization**, which is the automatic segmentation of speech recordings intoturns(i.e., time intervals) in which only one of thepersons involved in an interaction is speaking.
+The most common form of speaking activity detection is referred to as **speaker diarization**, which is the automatic segmentation of speech recordings into turns(i.e., time intervals) in which only one of the persons involved in an interaction is speaking.
 
 ### Prosody
 
-Such cues account for the way people talk and in most cases correspond to how loud people speak (is captured through the energy of the speech signal) and their intonation (is captured through the fundamentalfrequency of the speech signal).
+Such cues account for the way people talk and in most cases correspond to how loud people speak (is captured through the energy of the speech signal) and their intonation (is captured through the fundamental frequency of the speech signal).
 
 #### Body Activity (Openpose)
 
@@ -115,11 +115,11 @@ A leader is a person who has authority and power over a group of peoplr and can 
 
 1. Regarding ***Emergent leadership***,
 
-* Overall, the most frequently used modalities were audio andvideo, which were captured by ARM/LAM and CUC, respectively.
+* Overall, the most frequently used modalities were audio and video, which were captured by ARM/LAM and CUC, respectively.
 
 * There exist only a few study performing detection of **the designated leaders** (also called **role-based leaders**) such that focusing on **crowds** and **targeting the interactions among dyads**.
 
-* VFOA and speaking activity-based features can perform betterthan head and body activity-based cues.
+* VFOA and speaking activity-based features can perform better than head and body activity-based cues.
 
 2. Regarding ***leadership style detection***,
 
@@ -154,7 +154,7 @@ The automatic recognition of these traits was repeatedly performed with <u>**spe
 
 * **Non-linguistic features** (<u>prosody, speech activity, overlaps, and interruptions</u>) could outperform **linguistic features** (<u>words n-gram and dialog acts</u>) for the prediction of high/low extraversion, consciousness, and neuroticism traits.
 
-* **VFOA features** were <u>good at predicting extraversion and neuroticism</u> while the head pose errors had more impact on extraversion detection in cocktail partyscenarios.
+* **VFOA features** were <u>good at predicting extraversion and neuroticism</u> while the head pose errors had more impact on extraversion detection in cocktail party scenarios.
 
 There is no doubt that **multimodal (e.g., acoustic and vision) approaches** dominate this research line due to their remarkably better performance than **unimodal methods**.
 
