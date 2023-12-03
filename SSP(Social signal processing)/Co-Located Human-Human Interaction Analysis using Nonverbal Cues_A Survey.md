@@ -23,11 +23,11 @@ SSP research integrates **social psychology** concepts into **Artificial Intelli
 
 Such behavior corresponds to everything in speech except words, including the use of vocalizations (e.g., fillers, laughter, and sobbing), pauses, and turn-taking. **Speaking activity** and **prosody** are the two aspects of vocal behavior that are most commonly used in the literature.
 
-### Speaking activity
+#### Speaking activity
 
 The most common form of speaking activity detection is referred to as **speaker diarization**, which is the automatic segmentation of speech recordings into turns(i.e., time intervals) in which only one of the persons involved in an interaction is speaking.
 
-### Prosody
+#### Prosody
 
 Such cues account for the way people talk and in most cases correspond to how loud people speak (is captured through the energy of the speech signal) and their intonation (is captured through the fundamental frequency of the speech signal).
 
@@ -51,9 +51,9 @@ The expression body activity refers to postures, movements of the upper body, ar
 
 #### Proxemics
 
-* This is the domain studying **the social meaning of interpersonal distances** especially when themovement of people is not constrained.
+* This is the domain studying **the social meaning of interpersonal distances** especially when the movement of people is not constrained.
 
-* ***Free-standing conversations*** (conv.) are the settings in which proxemics play the most important role and individual distances were shown to account forthe detection of multiple social phenomena including *social roles, leadership, engagement and personality traits*.
+* ***Free-standing conversations*** (conv.) are the settings in which proxemics play the most important role and individual distances were shown to account for the detection of multiple social phenomena including *social roles, leadership, engagement and personality traits*.
 
 #### Physical Appearance
 
