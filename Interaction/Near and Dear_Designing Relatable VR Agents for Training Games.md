@@ -5,7 +5,6 @@ TIME: 2020/12 OzCHI
 
 [Near and Dear_Designing Relatable VR Agents for Training Games](https://doi.org/10.1145/3441000.3441007)
 
-
 # Problem
 ---
 

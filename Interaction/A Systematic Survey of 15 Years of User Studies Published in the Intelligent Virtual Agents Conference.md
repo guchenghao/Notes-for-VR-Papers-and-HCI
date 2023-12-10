@@ -5,7 +5,6 @@ TIME: 2018/11 IVA
 
 [A Systematic Survey of 15 Years of User Studies Published in the Intelligent Virtual Agents Conference](https://doi.org/10.1145/3267851.3267901)
 
-
 # Problem
 ---
 
