@@ -34,10 +34,12 @@ TIME: 2019/11 Proceedings of the ACM on Human-Computer Interaction
 
 * Participants felt the **social presence** of asynchronous collaborators when viewing recordings, <u>leading to proxemic behaviors and empathy</u>
 
-* Immersion in VR can cause challenges in viewing multimodal recordings, such as viewpoint disorientation or confusion from different versions of 3D scenes
+* Immersion in VR can cause challenges in viewing multimodal recordings, such as **viewpoint disorientation** or **confusion** from different versions of 3D scenes
 
 * **Recording (and viewing) co-expressive speech and body language** enabled participants to **express (and understand) nuanced ideas effectively** but **highlighted needs for editing (and browsing) tools**
 
+
+![multimodal asynchronous VR collaboration](../Pictures%20and%20Graphs/../Pictures%20and%20Graphs/Multimodal_collaboration_in_VR.png)
 
 ### Contributions
 
@@ -46,3 +48,17 @@ TIME: 2019/11 Proceedings of the ACM on Human-Computer Interaction
 * **Empirical findings** on the user challenges of respecting proxemics, maintaining awareness, and consuming/producing multimodal recordings in MAVRC
 
 * **Design implications** for multimodal recording for asynchronous collaboration: proactive proxemics management, animating changes in 3D, viewpoint display for awareness, and 3D navigational cues
+
+## Related Work
+
+* **Asynchronous collaboration** refers to cooperative scenarios where participants interact at different times.
+
+* Since these frameworks and tools are developed for applications in a 2D environment, it is still **unclear** how the **challenges and design considerations** for asynchronous collaboration reveal themselves differently in VR.
+
+## Multimodal recoding and annotation
+
+* Central to asynchronous collaboration is the exchange of messages across time.
+  
+* The benefit of **expressive richness** comes at a cost in **browsing and editing**.
+
+* In contrast to these previous studies on **2D media**, our empirical setting is in **3D** where the **recording of body movement** and **scene manipulation** is a <u>multidimensional data stream</u>.
