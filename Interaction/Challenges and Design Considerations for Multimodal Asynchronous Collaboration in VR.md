@@ -55,10 +55,45 @@ TIME: 2019/11 Proceedings of the ACM on Human-Computer Interaction
 
 * Since these frameworks and tools are developed for applications in a 2D environment, it is still **unclear** how the **challenges and design considerations** for asynchronous collaboration reveal themselves differently in VR.
 
-## Multimodal recoding and annotation
+### Multimodal recoding and annotation
 
 * Central to asynchronous collaboration is the exchange of messages across time.
   
 * The benefit of **expressive richness** comes at a cost in **browsing and editing**.
 
 * In contrast to these previous studies on **2D media**, our empirical setting is in **3D** where the **recording of body movement** and **scene manipulation** is a <u>multidimensional data stream</u>.
+
+### Proxemic interactions in VR and HCI
+
+* **Proxemics** describes the way interpersonal distance manifest social context.
+
+* Due to the **embodied nature** of VR, many researchers studied the **social implication** of **interpersonal distance** in CVEs.
+* Bailenson et al. 's study on **proxemics** in immersive VR:
+  * **Human proxemic behaviors**, such as moving away from an **embodied agent** who invades one's **Personal space**, can be transferred or even **amplified** in collaborative VR environments (CVEs).
+  * VR users also exhibit such behaviors to an interactive avatar with high behavioral realism
+
+## Method
+
+![Illustration experimental task](../Pictures%20and%20Graphs/../Pictures%20and%20Graphs/Illustration_experimental_task.png)
+
+* This paper collected **interview** and **observation data** where subjects experienced a representative spatial task in an **asynchronously collaborative setting**.
+
+### Experimental system: CVE for creating and viewing 3D multimodal recordings
+
+* **Core interaction modalities** in their experimental system:
+  * speech
+  * **body gestures** (e.g., head and hand movements, locomotion, and pointing)
+  * manipulations on scene objects
+
+* These modalities were chosen as:
+  * they enabled rich expression for **spatial tasks** in a CVE
+  * were **easy to capture** using most off-the-shelf VR systems
+
+* Integrating a **highly realistic avatar design** showing the full range of emotions and gestural interactions can <u>pose complex challenges</u> (e.g., **tracking instrumentation**, **computational complexity**) that is beyond our scope.
+
+* In <u>asynchronous collaboration</u>, **multimodal recording** is a **medium** for **time-distributed collaborators** to exchange immersive and expressive messages.
+
+* Our system uses a simple and familiar interface for creating and viewing recordings, modeled after **typical screen recording** or **video player** apps.
+  * **Create recording**: users can click on the **"REC" button** on the **world-stabilized** VR menu
+  * **View recording**: users browse through saved recordings in the menu and select one
+
