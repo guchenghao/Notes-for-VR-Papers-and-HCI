@@ -97,3 +97,10 @@ TIME: 2019/11 Proceedings of the ACM on Human-Computer Interaction
   * **Create recording**: users can click on the **"REC" button** on the **world-stabilized** VR menu
   * **View recording**: users browse through saved recordings in the menu and select one
 
+## Comments
+
+* 这篇文章和我目前研究关系不大。但是这篇文章对在VR或者CVEs的情况下，协作者之间进行异步协作这种情况进行了调查。
+
+* VR下的异步协作和现实世界中的异步协作非常不同，不同VR场景下的异步协作的具体形式也不同
+
+* 这篇文章利用representative spatial task来进行实验，然后通过参加者的交互数据和问卷数据来进行分析
