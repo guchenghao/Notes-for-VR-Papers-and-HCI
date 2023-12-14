@@ -18,7 +18,7 @@ TIME: 2022/4 CHI
 ## Learning Theories Relevant to VR-BasedEducation
 
 * **Constructivism theory** provides the best basis for developing VR educational applications. In constructivism, VR allows learners to build their knowledge so they may "***construct their own reality, or at least interpret it based on their perceptions of experiences***", even if they learn via distance education. There-fore, learning with instructional VR tools fits the constructivistlearning design.
-  
+
 * **Social constructivism** takes this idea further to say that students live in a social context that guides their perspective, learning in the context of their lived experiences insociety.
 
 * **Experiential learning theory** adopts the constructivist's perspective to some extent, where teachers motivate students’ learning from their personal experience. It newly represents learning as a four-stage cycle of **experiential stages**: **concrete experience**, **reflective observation**, **abstract conceptualization** and **active experimentation**.
@@ -38,3 +38,33 @@ TIME: 2022/4 CHI
 * A systematic review of immersive VR applications for higher education noted that **engineering, computer science and astronomy were the most popular application areas**.
 
 * **VR maturity level** remains a barrier for its adoption in regular teaching activities.
+
+## Methods
+
+### Participants
+
+* 18 participants (nine students and nine instructors)
+
+![Participants_VR_education](../Pictures%20and%20Graphs/Participants_details_VR_education.png)
+
+### Procedure
+
+![overview_procedure_study](../Pictures%20and%20Graphs/Study_Procedure_VR_education.png)
+
+1. **First Round Interview: Student and Instructor Interviews:** (1) understand the role of technology currently played in classrooms, (2) talk about participants' past experience or knowledge of using VR,and (3) discuss the potential and future of using VR in educational activities.
+
+2. **Student and Instructor Participatory Design Workshop:** We conducted two workshops for each participatinggroup for the purpose of: (1) identifying stakeholders' priorities and giving insights to second-round interviews (expert staff interviews); (2) having a deeper discussion of the themes raised in the prior inter-views based on the role (instructor or student); (3) understanding thecontemporary VR technologies and characterizing future opportunities.
+
+3. **Technical Possibilities Workshop:** We led two sessions fortechnical possibilities workshop: pre-workshop session and workshop session. We asked them to get familiar with ***Miro*** and try a list of VR applications: ***Engage***; ***Spatial***; ***Wander***.
+
+4. **Ideation Workshop:** We concluded themes (e.g., benefits and challenges of using VR in higher education) of educational VR from first-round interviews. During the ideation workshop, participants first formed small groups of instructors and students and discussed the themes which are similar to our themes mentioned in the results sections. In the end, <u>**participants were asked to work individually to rate each idea**</u>. A higher score meant "more expected features or ideas" (rates ranged from 0 to 4)
+   1. **Core group:** includes the most important stakeholders inusing VR in the class.
+   2. **Involved group:** provides input or helps to VR-supported class, but this kind of class is not their sole focus.
+   3. **Informed group:** wants to stay up to date and will provide feedback/input when necessary.
+   4. **Irrelevant group:** doesn’t need to be considered as stakeholders.
+
+5. **Second Round Interview: Expert Staff Interviews:** We recruited and ran second-round interviews for those stakeholders identified as core or involved stakeholders. They were asked to provide general descriptions of their responsibilities in facilitating VR-supported activities.
+
+### Qualitative Content Analysis
+
+To analyze the qualitative data generated from the interviews and workshops (including participant notes, discussions and ideas), weconverted all data into a textual format and used **data-driven thematic analysis** (following the **grounded-theory** inspired process) to **code the text** and **find meaningful patterns within the codes**.
