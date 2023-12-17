@@ -6,7 +6,6 @@ TIME: 2022/4 CHI
 
 [How Will VR Enter University Classrooms? Multi-stakeholders Investigation of VR in Higher Education](https://doi.org/10.1145/3491102.3517542)
 
-
 ## Important viewpoints from introduction
 
 * Using VR as an educational tool provides newforms and methods of visualization and presentation, motivates students' learning and stimulates their interest.
@@ -68,3 +67,34 @@ TIME: 2022/4 CHI
 ### Qualitative Content Analysis
 
 To analyze the qualitative data generated from the interviews and workshops (including participant notes, discussions and ideas), weconverted all data into a textual format and used **data-driven thematic analysis** (following the **grounded-theory** inspired process) to **code the text** and **find meaningful patterns within the codes**.
+
+## Results
+
+![Table of barinstorm](../Pictures%20and%20Graphs/brainstorm_of_VR_education.png)
+
+* VR's authentic social environments can also serve **various instructional goals**. Instructors described various situations in whichVR can support knowledge and skills acquisition by creating a cer-tain social environment, including **teaching skills** (S7), **language skills** (I7), **leadership skills** (I6), **communication** and **presentations kills** (I3, I5), and for **ethics learning** (e.g., **sexual harassment**) (I6).
+
+* ***Accessing Otherwise Inaccessible Learning Contexts***: (通过VR可以让学生体验一些比较危险的实验，让学生体验到无法课堂上体验的场景)
+  * Learning contexts can be accessed using VR no matter the geographiclocation, the distance, or the time
+  * VR provides a safe replacement for dangerous orunethical activities in the real world
+
+* ***Understanding and Remembering Visual and Spatial Knowledge***: (通过VR可以让学生更好得从空间和视觉的角度(3D模型)理解知识，例如：身临其境体验细胞内部的运行机制)
+  * VR can help learners better understand and remember **visual and spatial aspects** by **providing an immersive and interactive 3D environment**.
+
+* ***Supporting Embodied Learning***: (在VR中，学生通过avatar能够获得视觉，触觉等多种感官不同的体验，让学生拥有更高的参与度)
+  * Embodied learning theory advocates an education method that not only **offers an intellectual way of teaching** but also involves the whole body, including <u>vision, touch, proprioception, interoception, motor control, and vestibular sensations</u>.
+
+* ***Attracting Students through Novelty***: (VR在学习上具有新颖性，能够激发学生的学习热情和参与度)
+  * VR can engage students and **stimulate their interest**, promoting interest-driven learning.
+  * This is an especially **important benefit of VR** because it can "**increase motivation to learn.**"
+  * The **engagement** as "a prime reason forusing VR in class"
+
+* Course  Design  Investment: 
+
+* **Financial Consideration**: Consummer-level VR headsets
+
+* Health Concerns
+
+* Learning Curve (VR的学习成本要不学会使用手机的成本高很多，这也是困难之一)
+
+* Technology Management (管理VR设备也是非常重要的一环)
