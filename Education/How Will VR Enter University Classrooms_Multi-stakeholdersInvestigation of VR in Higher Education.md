@@ -98,3 +98,19 @@ To analyze the qualitative data generated from the interviews and workshops (inc
 * Learning Curve (VR的学习成本要不学会使用手机的成本高很多，这也是困难之一)
 
 * Technology Management (管理VR设备也是非常重要的一环)
+
+## Discussion
+
+* ***Inequity in VR Use May Be a Deal Breaker to Its Adoption***: (1) integrate **multi-sensory cues**; (2) advocates **embodied learning** to accommodate a wide range of abilities
+  * Sickness in VR
+  * Gender (不同性别的人得VR眩晕症的概率不同)
+  * Disabled community
+
+* ***Collaborative Social Experiences are Key to VR’s Success in the Classroom***:
+  * Our work points out the importance of **collaborative social experiences** that VR can achieve in students' learning processes
+  * Most participants identified the ability to create a realistic social environment that supports collaboration as one key benefit of VR
+  * ***Allowing students to have both private and public discussions*** is <u>another noteworthy design</u> raised in the workshop.
+
+* For *in-class management*, VR tools should be provided by *intuition* to **ease the stress of technology management** by offering straightforward ways such as <u>**forming teams, releasing notice, sharing resources or doing other common educational activities**</u>. (需要根据不同的教学或者学习内容来定制VR场景和相关教育功能)
+
+## Limitation
