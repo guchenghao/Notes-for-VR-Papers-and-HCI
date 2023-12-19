@@ -89,7 +89,7 @@ To analyze the qualitative data generated from the interviews and workshops (inc
   * This is an especially **important benefit of VR** because it can "**increase motivation to learn.**"
   * The **engagement** as "a prime reason forusing VR in class"
 
-* Course  Design  Investment: 
+* Course  Design  Investment:
 
 * **Financial Consideration**: Consummer-level VR headsets
 
@@ -112,5 +112,3 @@ To analyze the qualitative data generated from the interviews and workshops (inc
   * ***Allowing students to have both private and public discussions*** is <u>another noteworthy design</u> raised in the workshop.
 
 * For *in-class management*, VR tools should be provided by *intuition* to **ease the stress of technology management** by offering straightforward ways such as <u>**forming teams, releasing notice, sharing resources or doing other common educational activities**</u>. (需要根据不同的教学或者学习内容来定制VR场景和相关教育功能)
-
-## Limitation
