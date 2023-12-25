@@ -14,7 +14,7 @@ TIME: 2022/4 CHI
 
 * Learning in VR also has a theoretical root in **constructivism learning theory**, which **advocates constructing knowledge** based on students' real experiences because ***"VR promotes the best and probably only strategy that allows students to learn from non-symbolic first-person experience"***.
 
-## Learning Theories Relevant to VR-BasedEducation
+## Learning Theories Relevant to VR-Based Education
 
 * **Constructivism theory** provides the best basis for developing VR educational applications. In constructivism, VR allows learners to build their knowledge so they may "***construct their own reality, or at least interpret it based on their perceptions of experiences***", even if they learn via distance education. There-fore, learning with instructional VR tools fits the constructivist learning design.
 
